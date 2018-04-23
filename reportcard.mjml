@@ -74,10 +74,10 @@
         </mj-section>
         <!-- Recent Chapter Accomplishments -->
         <mj-section background-color="#fff" padding="0">
+          <mj-text color="#308aad" font-family="Open Sans">
+            <h2>Making Sense</h2>
+          </mj-text>
           <mj-text font-family="Open Sans" line-height="1.5">
-            <p>
-              <h2><strong>Recent chapter accomplishments</strong></h2>
-            </p>
             <p><strong>International Region</strong></p>
             <ul>
               <li>SSDP Nigeria, in collaboration with the Ogun State Youth Coalition, has registered 200 people to vote so far in 2018.</li>
@@ -134,8 +134,35 @@
               <li style="font-weight: 400;"><span style="font-weight: 400;">An officer from the Howard chapter has been participating in a student led occupation of an administrative building on campus which has lasted over a week. The action is in protest to perceived misappropriation of funds by school administration. </span></li>
             </ul>
           </mj-text>
+          <mj-text color="#308aad" font-family="Open Sans">
+            <h2>In the News</h2>
+          </mj-text>
+          <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+
+          <mj-text color="#308aad" font-family="Open Sans">
+            <h2>New Chapters</h2>
+          </mj-text>
+          <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+
+          <mj-text color="#308aad" font-family="Open Sans">
+            <h2>SSDP Staff Recommended reading/links/resources</h2>
+          </mj-text>
+          <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+
+          <mj-text color="#fdc538" font-family="Open Sans">
+            <h2>Member Benefits</h2>
+          </mj-text>
+          <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+
+          <mj-text color="#fdc538" font-family="Open Sans">
+            <h2>Upcoming Events</h2>
+          </mj-text>
+          <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+
 
         </mj-section>
+        <mj-spacer height="20px" />
+
         <!-- Connect with us -->
         <mj-section background-color="#aaf343" padding="0">
           <mj-spacer height="20px" />
