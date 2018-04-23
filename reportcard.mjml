@@ -9,7 +9,7 @@
         <mj-section background-color="#fff" padding="20">
           <mj-spacer height="20px" />
           <mj-text font-family="Open Sans" color="#136F8D">Dear Supporter<br /><br /></mj-text>
-          <mj-text font-family="Open Sans">Hello, and thanks for checking out our new Report Card! We’re excited to introduce you to this new message, which we’ll send monthly during the school year, to keep you posted on the lastest from our network. Curious about the latest news, work,events
+          <mj-text font-family="Open Sans" line-height="1.5">Hello, and thanks for checking out our new Report Card! We’re excited to introduce you to this new message, which we’ll send monthly during the school year, to keep you posted on the lastest from our network. Curious about the latest news, work,events
             from our chapters, or where our newest chapters are located? Look no further! <br /><br />We hope you enjoy the Report Card, and be sure to let us know if you have any suggestions.<br /><br />Stay sensible,<br /><br /> Your friends at SSDP
           </mj-text>
           <mj-spacer height="20px" />
@@ -20,17 +20,17 @@
           <mj-spacer height="20px" />
           <mj-column>
             <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/icon-1.jpg" width="65" height="65"></mj-image>
-            <mj-text color="#fff" align="center" padding="5"font-size="18px">30</mj-text>
+            <mj-text color="#fff" align="center" padding="5" font-size="18px">30</mj-text>
             <mj-text color="#fff" align="center" padding="5" font-size="11px">Countries</mj-text>
           </mj-column>
           <mj-column>
             <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/icon-2.jpg" width="65" height="65"></mj-image>
-            <mj-text color="#fff" align="center" padding="5"font-size="18px">247</mj-text>
+            <mj-text color="#fff" align="center" padding="5" font-size="18px">247</mj-text>
             <mj-text color="#fff" align="center" padding="5" font-size="11px">Campuses</mj-text>
           </mj-column>
           <mj-column>
             <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/icon-3.jpg" width="65" height="65"></mj-image>
-            <mj-text color="#fff" align="center" padding="5"font-size="18px">4707</mj-text>
+            <mj-text color="#fff" align="center" padding="5" font-size="18px">4707</mj-text>
             <mj-text color="#fff" align="center" padding="5" font-size="11px">Student Activists</mj-text>
           </mj-column>
           <mj-column>
@@ -52,7 +52,7 @@
         <!-- 2 columns section CAT Leaderboard-->
         <mj-section background-color="#fff" padding="0">
           <mj-column>
-            <mj-image src="https://lh3.googleusercontent.com/am2CVRBAO270CKqbSpYL8yKZDdkFglUxJkKz0jTmPN_Bv9X0hcV6OngX0z3ovz2g9V8S3dM_qAQHv3lMPiOV=w1533-h748"></mj-image>
+            <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/CAT.jpg"></mj-image>
           </mj-column>
           <mj-column>
             <mj-text font-size="20px" font-family="Open Sans">Top 10 CAT Leaderboard</mj-text>
@@ -74,7 +74,7 @@
         </mj-section>
         <!-- Recent Chapter Accomplishments -->
         <mj-section background-color="#fff" padding="0">
-          <mj-text font-family="Open Sans">
+          <mj-text font-family="Open Sans" line-height="1.5">
             <p>
               <h2><strong>Recent chapter accomplishments</strong></h2>
             </p>
