@@ -1,0 +1,100 @@
+<mjml>
+
+
+  <mj-body>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-section padding="-20">
+          <mj-column>
+            <mj-image src="https://docs.google.com/drawings/d/e/2PACX-1vRdBxSJsRvm3ICdiBBpat7e7Em58pmOBpSQJdhjIe6ZV3j1aG0Y5qjQi5--2xc4hS1JEkXp5TC891O7/pub?w=928&amp;h=526"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-text color="#136f8d" font-family="Open Sans" font-size="32px"><strong>TITLE GOES HERE ALL CAPS</strong></mj-text>
+            <mj-text color="#686868" font-family="Open Sans" font-size="24px">Month Year</mj-text>
+          </mj-column>
+
+        </mj-section>
+        <!-- Intro -->
+        <mj-section background-color="#fff" padding="0">
+          <mj-spacer height="20px" />
+          <mj-text font-family="Open Sans" line-height="1.5">Dear {{ recipient.first_name_or_friend }}, <br /> <br />On May 9th of last year, Rodrigo Duterte was elected President of the Philippines in a landslide, thanks in large part to an aggressively pro-drug war agenda. Duterte campaigned on a “tough
+            on crime” platform centered around a plan to offer bounties to those who turn in drug lords, dead or alive, famously promised to kill 100,000 criminals in his first six months in office, and upon taking office encouraged Filipino citizens
+            take to the streets and kill suspected drug users and dealers, promising legal protection and rewards to those that did so. <br /> <br /> The November/December 2016 issue of The SSDP Mosaic addressed the state-led slaughter in the Philippines.
+            At that point, at least 5,000 people had been killed in Duterte’s War on Drugs — 2,000 by the Philippines National Police, and 3,000 in extrajudicial or vigilante-style killings (killings by government officials or citizens with no legal basis).
+            In July of 2016 alone, over 60,000 individuals addicted to drugs voluntarily turned themselves into authorities, motivated by a legitimate fear for their lives. <br /> <br /> In this Mosaic, we’ll take a look at what has happened in the past
+            year, why that might be the case, and what hopes we have for the future...
+          </mj-text>
+          <mj-spacer height="20px" />
+
+        </mj-section>
+        <!-- Take Action -->
+        <mj-section background-color="#faa732" padding="0">
+          <mj-section padding="20px">
+            <mj-spacer height="20px" />
+            <mj-text color="#fff" font-family="Open Sans" font-size="24px" padding="20px"><strong>TAKE ACTION</strong></mj-text>
+            <mj-spacer height="20px" />
+
+            <mj-text color="#fff" font-family="Open Sans" line-height="1.5">Do an SSDP DARE and add your points on the SSDP Chapter Activity Tracker!
+              <ul>
+                <li> Share The SSDP Mosaic on Facebook or Twitter using #SSDPMosaic. (10 points)</li>
+                <li>USA: Contact your congressional representative and urge them to pass S. 1055, the Philippines Human Rights Accountability Act. (10 points)</li>
+              </ul>
+            </mj-text>
+            <mj-spacer height="20px" />
+          </mj-section>
+        </mj-section>
+        <!-- Mosaic Description -->
+        <mj-section>
+          <mj-text font-family="Open Sans" line-height="1.5">Each month, SSDP’s <a rel="noopener" href="https://ssdp.org/dare" target="_blank">Diversity, Awareness, Reflection and Education (DARE) committee</a> publishes <a rel="noopener" href="https://ssdp.org/dare/monthlymosaic" target="_blank">The SSDP Mosaic</a>,
+            a newsletter dedicated to exploring intersectionality and the War on Drugs. Previous issues have covered topics such as domestic violence, trans awareness, Black Lives Matter, and women’s unique experiences with the drug war.<br /> <br />            The DARE Committee strives to promote inclusivity within the SSDP network and facilitate collaboration and engagement with presently underrepresented perspectives, individuals, and movements. In order to ensure that the Mosaic more intentionally
+            and meaningfully reflects these values, the DARE committee is pleased to invite members of our student and alumni network to <a rel="noopener" href="https://goo.gl/forms/Y4ngBWI2kc" target="_blank">submit ideas for upcoming issues</a>. Don’t
+            forget to join our <a rel="noopener" href="https://www.facebook.com/groups/SSDPDARE" target="_blank">Facebook group</a> to keep up with regular DARE-related news and discussions.<br /><br /> If you have any questions, please contact Elise
+            at elise@ssdp.org. We look forward to reading your submissions! <br /><br />Sensibly yours,<br /><br /> Elise Szabo '14
+          </mj-text>
+        </mj-section>
+        <!-- Elise signature -->
+        <mj-section padding="0">
+          <mj-column>
+            <mj-image src="https://ssdp.org/wp-content/uploads/2015/12/bw-elise.jpeg"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-text font-family="Open Sans" line-height="1.5">
+              Elise Szabo '14</mj-text>
+            <mj-text font-family="Open Sans" line-height="1.5">
+              Outreach Coordinator</mj-text>
+            <mj-text font-family="Open Sans" line-height="1.5">They/Them/Theirs or She/Her/Hers</mj-text>
+
+            <mj-text font-family="Open Sans" line-height="1.5">Email + Gchat: elise@ssdp.org</mj-text>
+            <mj-text font-family="Open Sans" line-height="1.5"> Social: @elisemszabo</mj-text>
+            <mj-text font-family="Open Sans" line-height="1.5">Office: 202-393-5280 ext. 23</mj-text>
+            <mj-text font-family="Open Sans" line-height="1.5"><a href="https://ssdp.org">ssdp.org</a></mj-text>
+
+
+          </mj-column>
+        </mj-section>
+
+
+        <!-- Connect with us -->
+        <mj-section background-color="#aaf343" padding="0">
+          <mj-spacer height="20px" />
+          <mj-text align="center" font-size="16px" font-family="open sans" color="#363636">Connect with us!</mj-text>
+
+          <mj-column>
+            <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/04/facebook-trans.png" width="50" height="50"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/04/twitter-trans.png" width="50" height="50"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image href="https://www.instagram.com/studentsforsensibledrugpolicy/" src="https://ssdp.org/wp-content/uploads/2018/04/instagram-trans.png" width="50" height="50"></mj-image>
+
+          </mj-column>
+          <mj-column>
+            <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/04/youtube-trans.png" width="50" height="50"></mj-image>
+          </mj-column>
+
+        </mj-section>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
