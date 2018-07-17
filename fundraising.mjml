@@ -26,7 +26,6 @@
       </mj-group>
     </mj-section>
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
-
       <mj-column>
         <mj-text color="#636467" font-family="open sans" font-size="16px" line-height="1.5">
           Sensibly,<br /> Betty Aldworth<br /> Executive Director<br />
@@ -39,7 +38,6 @@
     </mj-section>
     <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-text align="center" font-size="16px" font-family="open sans" color="#003249">Connect with us!</mj-text>
-
       <mj-group>
         <mj-column>
           <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-facebook-1-240.png"></mj-image>
@@ -60,8 +58,6 @@
         <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
           Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> This email was sent to tyler@ssdp.org.<br /> To stop receiving emails, click here.</mj-text>
       </mj-column>
-
     </mj-section>
-
   </mj-body>
 </mjml>
