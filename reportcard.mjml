@@ -11,12 +11,21 @@
           about the latest news, work,events from our chapters, or where our newest chapters are located? Look no further! <br /><br />We hope you enjoy the Report Card, and be sure to let us know if you have any suggestions.<br /><br />Stay sensible,<br
           /><br /> Your friends at SSDP
         </mj-text>
-        <mj-spacer height="20px" />
       </mj-column>
     </mj-section>
+    <mj-section padding="10px" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-group width="80%">
+        <mj-column border="3px solid #FAA732">
+          <mj-text color="#636467" font-family="open sans" font-size="12px" line-height="1.5">
+            Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts:
+            <br />Your 2017 gifts:<br />Your 2016 gifts:<br /><br /></strong>If Statement
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
     <mj-section background-color="#146f8c">
-            <mj-group>
-           <mj-column>
+      <mj-group>
+        <mj-column>
           <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/icon-1.jpg"></mj-image>
           <mj-text color="#fff" align="center" padding="5" font-size="18px">30</mj-text>
           <mj-text color="#fff" align="center" padding="5" font-size="11px">Countries</mj-text>
