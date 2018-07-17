@@ -38,20 +38,20 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
-      <mj-text align="center" font-size="16px" font-family="open sans" color="#636467">Connect with us!</mj-text>
+      <mj-text align="center" font-size="16px" font-family="open sans" color="#003249">Connect with us!</mj-text>
 
       <mj-group>
         <mj-column>
-          <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/04/facebook-trans.png"></mj-image>
+          <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-facebook-1-240.png"></mj-image>
         </mj-column>
         <mj-column>
-          <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/04/twitter-trans.png"></mj-image>
+          <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-twitter-1-240.png"></mj-image>
         </mj-column>
         <mj-column>
-          <mj-image href="https://www.instagram.com/studentsforsensibledrugpolicy/" src="https://ssdp.org/wp-content/uploads/2018/04/instagram-trans.png"></mj-image>
+          <mj-image href="https://www.instagram.com/studentsforsensibledrugpolicy/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-instagram-11-240.png"></mj-image>
         </mj-column>
         <mj-column>
-          <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/04/youtube-trans.png"></mj-image>
+          <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-youtube-6-240.png"></mj-image>
         </mj-column>
       </mj-group>
     </mj-section>
