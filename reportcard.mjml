@@ -1,14 +1,12 @@
 <mjml>
   <mj-body>
-    <mj-section padding="0">
+    <mj-section border="3px solid #17BEBB" padding="0">
       <mj-column>
-        <mj-section padding="-20">
           <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/header-2.jpg"></mj-image>
-        </mj-section>
         <!-- Letter from Staff -->
         <mj-section background-color="#fff" padding="20">
           <mj-spacer height="20px" />
-          <mj-text font-family="Open Sans" color="#136F8D">Dear Supporter<br /><br /></mj-text>
+          <mj-text font-family="Open Sans" color="#636467">Dear Supporter<br /><br /></mj-text>
           <mj-text font-family="Open Sans" line-height="1.5">Hello, and thanks for checking out our new Report Card! We’re excited to introduce you to this new message, which we’ll send monthly during the school year, to keep you posted on the lastest from our network. Curious about the latest news, work,events
             from our chapters, or where our newest chapters are located? Look no further! <br /><br />We hope you enjoy the Report Card, and be sure to let us know if you have any suggestions.<br /><br />Stay sensible,<br /><br /> Your friends at SSDP
           </mj-text>
