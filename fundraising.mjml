@@ -15,14 +15,15 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
-      <mj-column width="90%" border="3px solid #FAA732">
-
-        <mj-text color="#636467" font-family="open sans" font-size="12px" line-height="1.5">
-          Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts:
+    <mj-section padding="10px" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-group width="80%">
+        <mj-column border="3px solid #FAA732">
+          <mj-text color="#636467" font-family="open sans" font-size="12px" line-height="1.5">
+            Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts:
           <br />Your 2017 gifts:<br />Your 2016 gifts:<br /><br /></strong>If Statement
-        </mj-text>
-      </mj-column>
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
 
@@ -36,7 +37,7 @@
         <mj-image src="https://ssdp.org/wp-content/uploads/2018/01/bw-betty_square.jpg"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#aaf343"  border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+    <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-text align="center" font-size="16px" font-family="open sans" color="#636467">Connect with us!</mj-text>
 
       <mj-group>
