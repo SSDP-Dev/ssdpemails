@@ -169,35 +169,29 @@
       </mj-column>
     </mj-section>
     <mj-spacer height="20px" />
-
-    <!-- Connect with us -->
-    <mj-section background-color="#aaf343" padding="0">
-      <mj-spacer height="20px" />
-      <mj-text align="center" font-size="16px" font-family="open sans" color="#363636">Connect with us!</mj-text>
+    <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-text align="center" font-size="16px" font-family="open sans" color="#003249">Connect with us!</mj-text>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-facebook-1-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-twitter-1-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.instagram.com/studentsforsensibledrugpolicy/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-instagram-11-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-youtube-6-240.png"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
       <mj-column>
-        <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/04/facebook-trans.png" width="50" height="50"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/04/twitter-trans.png" width="50" height="50"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image href="https://www.instagram.com/studentsforsensibledrugpolicy/" src="https://ssdp.org/wp-content/uploads/2018/04/instagram-trans.png" width="50" height="50"></mj-image>
-
-      </mj-column>
-      <mj-column>
-        <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/04/youtube-trans.png" width="50" height="50"></mj-image>
+        <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
+          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> This email was sent to tyler@ssdp.org.<br /> To stop receiving emails, click here.</mj-text>
       </mj-column>
     </mj-section>
-    <!-- Footer - Commented out becuase we don't want it in the actual design, but I wanted to keep the MJML for it.
-        <mj-section background-color="#2e3939" padding="0">
-          <mj-spacer height="20px" />
-
-          <mj-text align="center" color="#595e5e">Copyright @2018 Student sfor Sensivel Drug Policy. All rights reserved.<br />You are receiving this email because of your affiliation with SSDP.<br /><br />Students for Sensible Drug Policy<br />1011 O St. NW, #1, Washington, DC, 20001<br />This
-            email was sent to betty@ssdp.org<br />To stop receiving emails, click here.</mj-text>
-          <mj-spacer height="20px" />
-
-        </mj-section> -->
-    </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
