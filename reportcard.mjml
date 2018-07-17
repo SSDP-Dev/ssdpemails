@@ -13,9 +13,7 @@
         </mj-text>
         <mj-spacer height="20px" />
       </mj-column>
-
     </mj-section>
-    <!-- Stats -->
     <mj-section background-color="#146f8c">
             <mj-group>
            <mj-column>
@@ -41,12 +39,10 @@
       </mj-group>
     </mj-section>
     <!-- Take Action -->
-    <mj-section background-color="#17BEBB" padding="0">
+    <mj-section background-color="#17BEBB">
+      <mj-text color="#fff" align="center"><strong>Ready to take action? Become an SSDPer today!</strong></mj-text>
       <mj-spacer height="20px" />
-      <mj-text color="#fff" align="center">Ready to take action? Find your chapter today!</mj-text>
-      <mj-spacer height="20px" />
-      <mj-button background-color="#c5ff00" color="#266a8c" href="https://ssdp.org/chapters">FIND YOUR CHAPTER</mj-button>
-      <mj-spacer height="20px" />
+      <mj-button background-color="#c5ff00" color="#266a8c" href="https://ssdp.nationbuilder.com/become_an_ssdper"><strong>BECOME AN SSDPER</strong></mj-button>
     </mj-section>
 
     <!-- 2 columns section CAT Leaderboard-->
