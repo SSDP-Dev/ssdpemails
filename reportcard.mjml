@@ -7,7 +7,7 @@
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-column>
         <mj-spacer height="10px" />
-        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">Dear supporter <br /><br /> Hello, and thanks for checking out our new Report Card! We’re excited to introduce you to this new message, which we’ll send monthly during the school year, to keep you posted on the lastest from our network. Curious
+        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">Dear supporter, <br /><br /> Hello, and thanks for checking out our new Report Card! We’re excited to introduce you to this new message, which we’ll send monthly during the school year, to keep you posted on the lastest from our network. Curious
           about the latest news, work,events from our chapters, or where our newest chapters are located? Look no further! <br /><br />We hope you enjoy the Report Card, and be sure to let us know if you have any suggestions.<br /><br />Stay sensible,<br
           /><br /> Your friends at SSDP
         </mj-text>
@@ -55,12 +55,10 @@
     </mj-section>
 
     <!-- 2 columns section CAT Leaderboard-->
-    <mj-section background-color="#fff" padding="0">
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+
       <mj-column>
-        <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/CAT.jpg"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-text font-size="20px" font-family="Open Sans">Top 10 CAT Leaderboard</mj-text>
+        <mj-text color="#136F8D" font-size="20px" font-family="Open Sans">CAT LEADERBOARD</mj-text>
         <mj-text>
           <ol>
             <li>University of Colorado Boulder</li>
@@ -76,95 +74,99 @@
           </ol>
         </mj-text>
       </mj-column>
+      <mj-column>
+        <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/CAT.jpg"></mj-image>
+      </mj-column>
     </mj-section>
     <!-- Recent Chapter Accomplishments -->
-    <mj-section background-color="#fff" padding="0">
-      <mj-text color="#308aad" font-family="Open Sans">
-        <h2>Making Sense</h2>
-      </mj-text>
-      <mj-text font-family="Open Sans" line-height="1.5">
-        <p><strong>International Region</strong></p>
-        <ul>
-          <li>SSDP Nigeria, in collaboration with the Ogun State Youth Coalition, has registered 200 people to vote so far in 2018.</li>
-          <li>36 people in attendance for the first ever Vienna Youth Summit, a one day workshop the weekend before CND that was centered on global drug policy and regional drug policies in Europe.</li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">University of Vienna chapter organized a public rally in a central park for human rights in drug policy on Sunday, March 11. Great turnout, included speakers, panel discussions, music, and artwork. First time there was ever an outside action organized around CND.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Orsi Feher was elected as Treasurer to the board of the Vienna NGO Committee</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Our side event at CND brought a packed room, ran out of seats. Great feedback, several people told us it was the best side event they attended so far. A few country delegations present, but none asked questions. </span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">University of Vienna event on Psychedelic Science w/ MAPS, Vienna Psychedelic Society, and ISEERS was a huge success. Packed room, engaging discussion, and incredibly positive feedback. Orsi moderated as Ismail was one of the panelists. </span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Pakistan conducted their second harm reduction seminar in Punjab. </span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Kawal Deep Kour (Assam Dom Bosco University) organized a lecture focusing on the need to discuss drug policy in India at Punjab University. About 80 people turned out an several expressed interested in starting an SSDP chapter at their school. </span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">During the SSDP Ireland conference, a representative of the Greens Party officially announced the party's new plan to decriminalize cannabis. </span></li>
-        </ul>
-        <p><strong>Midwest Region</strong></p>
-        <ul>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Our chapter leader at the University of Cincinnati is the field director for OSA's ballot campaign to reduce drug offenses from felonies to misdemeanors and has organized multiple signature drive events across campuses with his team. </span></li>
-        </ul>
-        <p><strong>Mountain Region</strong></p>
-        <ul>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">University of Colorado Boulder met with their school's residence hall director last year to ask that more harm reduction oriented materials be taught to new students, and were just informed that the association had begun using harm reduction as a philosophy for all trainings this academic year.</span></li>
-        </ul>
-        <p><strong>Southeast Region</strong></p>
-        <ul>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Rollins College Chapter Leader Zechariah Hilles was interviewed by the campus newspaper on his chapter's efforts to remove negative stigmas around psychedelic substance use and psychedelic therapy.</span></li>
-        </ul>
-        <p><strong>Southwest Region</strong></p>
-        <ul>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Chapter Leader Anand Pant from University of Texas Austin created the back-end server and app for the Texas Overdose Naloxone Initiative, which helps track the number of overdose reversals done in the state. </span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Ian Sims from University of Texas Austin wrote and published an article calling for more and better quality drug education</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">The University of Texas Austin school newspaper published a story about the UT chapter winning the Outstanding Chapter award for two years running for the first time in SSDP history.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP at Arizona State University hosted a wildly successful Naloxone training, which was covered and published on the State Press, the school's paper. Chapter President Cody Holt was also interviewed for an opinion piece about student access to medical marijuana in campus residence halls. </span></li>
-        </ul>
-        <p><strong>Northeast Region</strong></p>
-        <ul>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">University of Connecticut got 565 signatures on a petition to get the Mansfield town council to endorse a statement of position in support of CT cannabis legalization. The next day, four chapter members testified at the state capitol in favor of H.B. 5394, which would legalize cannabis in Connecticut. </span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">After following up with their meeting during lobby day, SUNY Albany got their congressional representative, Paul Tonko, to agree to visit campus at the end of the month and speak to the chapter. The chapter plans to get him on the record on a number of policy issues related to criminal justice reform. </span></li>
-        </ul>
-        <p><strong>Pacific Region</strong></p>
-        <ul>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">UC Hastings Law SSDP held a "lunch and learn" event with Jesse Stout, a UC Hastings Law and SSDP alum.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Occidental College SSDP held a successful "Know Your Rights" event with Occidental Law Society, Occidental ACLU, and the Occidental Honor Board.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">UC Hastings Law SSDP partnered with Black Law Students Association for a screening of the documentary film </span><em><span style="font-weight: 400;">13th.</span></em></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">After criticizing stigmatizing posters displayed on campus by Occidental's Alcohol and Other Drugs Committee, Occidental College SSDPers were invited by the administration to make improvements to the drug safety campaign's language.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">University of California Santa Barbara SSDPers met with their District Attorney and District Supervisor to recommend new language around drug paraphernalia to allow for drug checking services.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Golden Gate University School of Law SSDP hosted their first expungement clinic and community resource fair for equity cannabis programs. They assisted 30 participants in expunging their records, and provided cannabis business resources and training to over 100 attendees.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Willamette University College of Law SSDP held a public educational event, "Clearing the Air: Oregon Cannabis Law." Attorney for the Association of Oregon Counties Rob Bovette spoke to the criminal aspect, such as the line between what's legal and illegal and what the punishments looks like when people are charged, along with other drug policy issues like the opioid epidemic and local meth use. They also heard from Willamette University's Campus Safety Director, who spoke to the university's stance and policies regarding cannabis and campus data on alcohol and other drug use.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Golden Gate University School of Law SSDP volunteered at the San Francisco Office of Cannabis's job fair, helping reduce drug convictions and educate communities unfairly burdened by the War on Drugs.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Occidental College SSDP hosted a "Safe Space" for student to cool down at during the school's Spring Fest. They offered free snacks, water, and a calm environment during the festival. </span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Reed College SSDPers held an Opioid Epidemic informational event with a naloxone training, where they trained 40 people on responding to opioid overdoses.</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">Golden Gate University School of Law SSDPers participated in the San Francisco Public Defender's Clean Slate program, helping expunge the records of those arrested but never charged with a crime.</span></li>
-        </ul>
-        <p><strong>Mid-Atlantic Region</strong></p>
-        <ul>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">George Mason University co-hosted the Virginia Cannabis Forum on their campus with Virginia NORML</span></li>
-          <li style="font-weight: 400;"><span style="font-weight: 400;">An officer from the Howard chapter has been participating in a student led occupation of an administrative building on campus which has lasted over a week. The action is in protest to perceived misappropriation of funds by school administration. </span></li>
-        </ul>
-      </mj-text>
-      <mj-text color="#308aad" font-family="Open Sans">
-        <h2>In the News</h2>
-      </mj-text>
-      <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-column>
+        <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
+          Making Sense
+        </mj-text>
+        <mj-text font-family="Open Sans" line-height="1.5">
+          <p><strong>International Region</strong></p>
+          <ul>
+            <li>SSDP Nigeria, in collaboration with the Ogun State Youth Coalition, has registered 200 people to vote so far in 2018.</li>
+            <li>36 people in attendance for the first ever Vienna Youth Summit, a one day workshop the weekend before CND that was centered on global drug policy and regional drug policies in Europe.</li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">University of Vienna chapter organized a public rally in a central park for human rights in drug policy on Sunday, March 11. Great turnout, included speakers, panel discussions, music, and artwork. First time there was ever an outside action organized around CND.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Orsi Feher was elected as Treasurer to the board of the Vienna NGO Committee</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Our side event at CND brought a packed room, ran out of seats. Great feedback, several people told us it was the best side event they attended so far. A few country delegations present, but none asked questions. </span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">University of Vienna event on Psychedelic Science w/ MAPS, Vienna Psychedelic Society, and ISEERS was a huge success. Packed room, engaging discussion, and incredibly positive feedback. Orsi moderated as Ismail was one of the panelists. </span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Pakistan conducted their second harm reduction seminar in Punjab. </span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Kawal Deep Kour (Assam Dom Bosco University) organized a lecture focusing on the need to discuss drug policy in India at Punjab University. About 80 people turned out an several expressed interested in starting an SSDP chapter at their school. </span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">During the SSDP Ireland conference, a representative of the Greens Party officially announced the party's new plan to decriminalize cannabis. </span></li>
+          </ul>
+          <p><strong>Midwest Region</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Our chapter leader at the University of Cincinnati is the field director for OSA's ballot campaign to reduce drug offenses from felonies to misdemeanors and has organized multiple signature drive events across campuses with his team. </span></li>
+          </ul>
+          <p><strong>Mountain Region</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">University of Colorado Boulder met with their school's residence hall director last year to ask that more harm reduction oriented materials be taught to new students, and were just informed that the association had begun using harm reduction as a philosophy for all trainings this academic year.</span></li>
+          </ul>
+          <p><strong>Southeast Region</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Rollins College Chapter Leader Zechariah Hilles was interviewed by the campus newspaper on his chapter's efforts to remove negative stigmas around psychedelic substance use and psychedelic therapy.</span></li>
+          </ul>
+          <p><strong>Southwest Region</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Chapter Leader Anand Pant from University of Texas Austin created the back-end server and app for the Texas Overdose Naloxone Initiative, which helps track the number of overdose reversals done in the state. </span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Ian Sims from University of Texas Austin wrote and published an article calling for more and better quality drug education</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">The University of Texas Austin school newspaper published a story about the UT chapter winning the Outstanding Chapter award for two years running for the first time in SSDP history.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP at Arizona State University hosted a wildly successful Naloxone training, which was covered and published on the State Press, the school's paper. Chapter President Cody Holt was also interviewed for an opinion piece about student access to medical marijuana in campus residence halls. </span></li>
+          </ul>
+          <p><strong>Northeast Region</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">University of Connecticut got 565 signatures on a petition to get the Mansfield town council to endorse a statement of position in support of CT cannabis legalization. The next day, four chapter members testified at the state capitol in favor of H.B. 5394, which would legalize cannabis in Connecticut. </span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">After following up with their meeting during lobby day, SUNY Albany got their congressional representative, Paul Tonko, to agree to visit campus at the end of the month and speak to the chapter. The chapter plans to get him on the record on a number of policy issues related to criminal justice reform. </span></li>
+          </ul>
+          <p><strong>Pacific Region</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">UC Hastings Law SSDP held a "lunch and learn" event with Jesse Stout, a UC Hastings Law and SSDP alum.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Occidental College SSDP held a successful "Know Your Rights" event with Occidental Law Society, Occidental ACLU, and the Occidental Honor Board.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">UC Hastings Law SSDP partnered with Black Law Students Association for a screening of the documentary film </span><em><span style="font-weight: 400;">13th.</span></em></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">After criticizing stigmatizing posters displayed on campus by Occidental's Alcohol and Other Drugs Committee, Occidental College SSDPers were invited by the administration to make improvements to the drug safety campaign's language.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">University of California Santa Barbara SSDPers met with their District Attorney and District Supervisor to recommend new language around drug paraphernalia to allow for drug checking services.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Golden Gate University School of Law SSDP hosted their first expungement clinic and community resource fair for equity cannabis programs. They assisted 30 participants in expunging their records, and provided cannabis business resources and training to over 100 attendees.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Willamette University College of Law SSDP held a public educational event, "Clearing the Air: Oregon Cannabis Law." Attorney for the Association of Oregon Counties Rob Bovette spoke to the criminal aspect, such as the line between what's legal and illegal and what the punishments looks like when people are charged, along with other drug policy issues like the opioid epidemic and local meth use. They also heard from Willamette University's Campus Safety Director, who spoke to the university's stance and policies regarding cannabis and campus data on alcohol and other drug use.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Golden Gate University School of Law SSDP volunteered at the San Francisco Office of Cannabis's job fair, helping reduce drug convictions and educate communities unfairly burdened by the War on Drugs.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Occidental College SSDP hosted a "Safe Space" for student to cool down at during the school's Spring Fest. They offered free snacks, water, and a calm environment during the festival. </span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Reed College SSDPers held an Opioid Epidemic informational event with a naloxone training, where they trained 40 people on responding to opioid overdoses.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Golden Gate University School of Law SSDPers participated in the San Francisco Public Defender's Clean Slate program, helping expunge the records of those arrested but never charged with a crime.</span></li>
+          </ul>
+          <p><strong>Mid-Atlantic Region</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">George Mason University co-hosted the Virginia Cannabis Forum on their campus with Virginia NORML</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">An officer from the Howard chapter has been participating in a student led occupation of an administrative building on campus which has lasted over a week. The action is in protest to perceived misappropriation of funds by school administration. </span></li>
+          </ul>
+        </mj-text>
+        <mj-text color="#136F8D" font-family="Open Sans">
+          <h2>IN THE NEWS</h2>
+        </mj-text>
+        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
 
-      <mj-text color="#308aad" font-family="Open Sans">
-        <h2>New Chapters</h2>
-      </mj-text>
-      <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+        <mj-text color="#136F8D" font-family="Open Sans">
+          <h2>NEW CHAPTERS</h2>
+        </mj-text>
+        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
 
-      <mj-text color="#308aad" font-family="Open Sans">
-        <h2>SSDP Staff Recommended reading/links/resources</h2>
-      </mj-text>
-      <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+        <mj-text color="#136F8D" font-family="Open Sans">
+          <h2>SSDP STAFF RECOMMENDED READING</h2>
+        </mj-text>
+        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
 
-      <mj-text color="#fdc538" font-family="Open Sans">
-        <h2>Member Benefits</h2>
-      </mj-text>
-      <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+        <mj-text color="#FAA732" font-family="Open Sans">
+          <h2>MEMBER BENEFITS</h2>
+        </mj-text>
+        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
 
-      <mj-text color="#fdc538" font-family="Open Sans">
-        <h2>Upcoming Events</h2>
-      </mj-text>
-      <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+        <mj-text color="#FAA732" font-family="Open Sans">
+          <h2>UPCOMING EVENTS</h2>
+        </mj-text>
+        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
 
-
+      </mj-column>
     </mj-section>
     <mj-spacer height="20px" />
 
