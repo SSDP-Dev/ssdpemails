@@ -1,9 +1,11 @@
 <mjml>
   <mj-body>
-    <mj-section background-color="#f8f9fa" border-left="3px inset #17BEBB" border-right="3px inset #17BEBB" border-top="3px inset #17BEBB">
-
-      <mj-column width="70%">
-        <mj-text font-size="20px" color="#136F8D" font-family="open sans">Dear,</mj-text>
+    <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-top="3px solid #17BEBB">
+      <mj-image src="https://ssdp.org/wp-content/uploads/2018/06/35894289_10204492414546493_504035573489467392_n.jpg"></mj-image>
+      <mj-spacer height="15px"></mj-spacer>
+      <mj-text font-size="10px" align="center" font-family="open sans">Image Caption Here</mj-text>
+      <mj-column width="85%">
+        <mj-text font-size="16px" font-family="open sans">Dear,</mj-text>
         <mj-text font-size="16px" font-family="open sans" line-height="1.5">
           <p>Even as marijuana policy reforms advance in places like Oklahoma and Vermont, prohibitionist policies keep people chained to past convictions. According to data from the NAACP, having a drug conviction on one’s record can reduce the likelihood
             of a callback or job offer by nearly 50%, limiting opportunities for meaningful employment for people with previous criminal convictions - who are unjustly more likely to be people of color.</p>
@@ -12,20 +14,17 @@
             early, and reduce felonies to misdemeanors.</p>
         </mj-text>
       </mj-column>
-      <mj-column width="25%" border="3px solid #FAA732">
-        <mj-image src="https://ssdp.org/wp-content/uploads/2018/06/35894289_10204492414546493_504035573489467392_n.jpg"></mj-image>
-        <mj-text font-size="10px" align="center" font-family="open sans" padding="0px">Image Caption Here</mj-text>
-        <mj-spacer height="5px"></mj-spacer>
-        <mj-text font-family="open sans" font-size="12px" line-height="1.5" padding="2px">
-          Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /> Your 2018 gifts:
-          <br />Your 2017 gifts:<br />Your 2016 gifts:<br />If Statement
+    </mj-section>
+    <mj-section background-color="#f8f9fa" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-column width="85%" border="3px solid #FAA732">
+
+        <mj-text font-family="open sans" font-size="12px" line-height="1.5">
+          Sensible Society members support SSDP with monthly or one-time gifts.<br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts:
+          <br />Your 2017 gifts:<br />Your 2016 gifts:<br /><br /></strong>If Statement
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#f8f9fa" border-left="3px inset #17BEBB" border-right="3px inset #17BEBB">
-
-    </mj-section>
-    <mj-section background-color="#f8f9fa" border-left="3px inset #17BEBB" border-right="3px inset #17BEBB">
+    <mj-section background-color="#f8f9fa" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
 
       <mj-column>
         <mj-text font-family="open sans" font-size="16px" line-height="1.5">
@@ -33,11 +32,11 @@
           <a href="https://ssdp.org">Students for Sensible Drug Policy</a>
         </mj-text>
       </mj-column>
-      <mj-column>
+      <mj-column width="40%">
         <mj-image src="https://ssdp.org/wp-content/uploads/2018/01/bw-betty_square.jpg"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#636467" border-left="3px inset #17BEBB" border-right="3px inset #17BEBB" border-bottom="3px inset #17BEBB">
+    <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
       <mj-column>
         <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
           Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> This email was sent to tyler@ssdp.org.<br /> To stop receiving emails, click here.</mj-text>
