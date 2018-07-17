@@ -1,7 +1,6 @@
 <mjml>
   <mj-body>
-    <mj-section border="3px solid #17BEBB" padding="0">
-      <mj-column>
+    <mj-section border="3px solid #17BEBB" padding="-25px">
           <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/header-2.jpg"></mj-image>
         <!-- Letter from Staff -->
         <mj-section background-color="#fff" padding="20">
