@@ -120,16 +120,16 @@
           SSDP STAFF RECOMMENDED READING
         </mj-text>
         <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
-
+        <mj-text color="#FAA732" font-family="Open Sans" font-size="20px">
+          UPCOMING EVENTS
+        </mj-text>
+        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
         <mj-text color="#FAA732" font-family="Open Sans" font-size="20px">
           MEMBER BENEFITS
         </mj-text>
         <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
 
-        <mj-text color="#FAA732" font-family="Open Sans" font-size="20px">
-          UPCOMING EVENTS
-        </mj-text>
-        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+
 
       </mj-column>
     </mj-section>
