@@ -54,11 +54,13 @@
       <mj-button background-color="#c5ff00" color="#266a8c" href="https://ssdp.nationbuilder.com/become_an_ssdper"><strong>BECOME AN SSDPER</strong></mj-button>
     </mj-section>
 
-    <!-- 2 columns section CAT Leaderboard-->
-    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
-
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-bottom="0px">
       <mj-column>
         <mj-text color="#136F8D" font-size="20px" font-family="Open Sans">CAT LEADERBOARD</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
+      <mj-column>
         <mj-text>
           <ol>
             <li>University of Colorado Boulder</li>
