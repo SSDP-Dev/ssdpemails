@@ -60,7 +60,7 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
-      <mj-column>
+      <mj-column width="70%">
         <mj-text>
           <ol>
             <li>University of Colorado Boulder</li>
@@ -76,12 +76,12 @@
           </ol>
         </mj-text>
       </mj-column>
-      <mj-column>
+      <mj-column width="30%">
         <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/CAT.jpg"></mj-image>
       </mj-column>
     </mj-section>
     <!-- Recent Chapter Accomplishments -->
-    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
       <mj-column>
         <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
           MAKING SENSE
