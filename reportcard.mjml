@@ -88,7 +88,7 @@
 
     <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
       <mj-column>
-        <mj-text color="#636467" font-family="Open Sans" font-size="20px">
+        <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
           MAKING SENSE
         </mj-text>
         <mj-text font-family="Open Sans" line-height="1.5" color="#636467">
