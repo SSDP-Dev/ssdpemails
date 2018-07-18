@@ -57,6 +57,7 @@
     <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-bottom="0px">
       <mj-column>
         <mj-text color="#136F8D" font-size="20px" font-family="Open Sans">CAT LEADERBOARD</mj-text>
+        <mj-text color="#636467" font-size="12px" font-family="Open sans"><a href="https://cat.ssdp.org">Click here to view the Chapter Activity Tracker</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
