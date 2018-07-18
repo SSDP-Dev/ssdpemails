@@ -4,6 +4,7 @@
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-top="3px solid #17BEBB" padding="-25px">
       <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/header-2.jpg"></mj-image>
     </mj-section>
+
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-column>
         <mj-spacer height="10px" />
@@ -13,6 +14,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
     <mj-section padding="10px" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-group width="80%">
         <mj-column border="3px solid #FAA732">
@@ -23,6 +25,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
+
     <mj-section background-color="#146f8c">
       <mj-group>
         <mj-column>
@@ -47,7 +50,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <!-- Take Action -->
+
     <mj-section background-color="#17BEBB">
       <mj-text color="#fff" align="center"><strong>Ready to take action? Become an SSDPer today!</strong></mj-text>
       <mj-spacer height="20px" />
@@ -60,9 +63,10 @@
         <mj-text color="#636467" font-size="12px" font-family="Open sans"><a href="https://cat.ssdp.org">Click here to view the Chapter Activity Tracker</a></mj-text>
       </mj-column>
     </mj-section>
+
     <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
       <mj-column width="70%">
-        <mj-text>
+        <mj-text color="#636467">
           <ol>
             <li>University of Colorado Boulder</li>
             <li>Kent State University</li>
@@ -81,14 +85,13 @@
         <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/CAT.jpg"></mj-image>
       </mj-column>
     </mj-section>
-    <!-- Recent Chapter Accomplishments -->
+
     <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
       <mj-column>
-        <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
+        <mj-text color="#636467" font-family="Open Sans" font-size="20px">
           MAKING SENSE
         </mj-text>
-        <mj-text font-family="Open Sans" line-height="1.5">
-
+        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">
           <p><strong>Midwest Region</strong></p>
           <ul>
             <li style="font-weight: 400;"><span style="font-weight: 400;">Our chapter leader at the University of Cincinnati is the field director for OSA's ballot campaign to reduce drug offenses from felonies to misdemeanors and has organized multiple signature drive events across campuses with his team. </span></li>
@@ -110,30 +113,28 @@
         <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
           IN THE NEWS
         </mj-text>
-        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
 
         <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
           NEW CHAPTERS
         </mj-text>
-        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
 
         <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
           SSDP STAFF RECOMMENDED READING
         </mj-text>
-        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
         <mj-text color="#FAA732" font-family="Open Sans" font-size="20px">
           UPCOMING EVENTS
         </mj-text>
-        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
         <mj-text color="#FAA732" font-family="Open Sans" font-size="20px">
           MEMBER BENEFITS
         </mj-text>
-        <mj-text font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
-
-
-
+        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
       </mj-column>
     </mj-section>
+
     <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-text align="center" font-size="16px" font-family="open sans" color="#003249">Connect with us!</mj-text>
       <mj-group>
@@ -151,12 +152,13 @@
         </mj-column>
       </mj-group>
     </mj-section>
+
     <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
       <mj-column>
         <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
           Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> This email was sent to tyler@ssdp.org.<br /> To stop receiving emails, click here.</mj-text>
       </mj-column>
     </mj-section>
-    </mj-section>
+
   </mj-body>
 </mjml>
