@@ -44,7 +44,7 @@
           <mj-text color="#fff" align="center" padding="5" font-size="11px">Student Activists</mj-text>
         </mj-column>
         <mj-column>
-          <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/icon-4.jpg"></mj-image>
+          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/policy-01.png"></mj-image>
           <mj-text color="#fff" align="center" padding="5" font-size="18px">128</mj-text>
           <mj-text color="#fff" align="center" padding="5" font-size="11px">Policy Change Initiatives</mj-text>
         </mj-column>
