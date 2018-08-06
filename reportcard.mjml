@@ -28,25 +28,27 @@
 
     <mj-section background-color="#146f8c">
       <mj-group>
-        <mj-column>
-          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_world-white.png"></mj-image>
-          <mj-text color="#fff" align="center" padding="5" font-size="18px">30</mj-text>
-          <mj-text color="#fff" align="center" padding="5" font-size="11px">Countries</mj-text>
-        </mj-column>
+      <mj-column>
+        <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/policy-01.png"></mj-image>
+        <mj-text color="#fff" align="center" padding="5" font-size="18px">128</mj-text>
+        <mj-text color="#fff" align="center" padding="5" font-size="11px">Policy Change Initiatives</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_people.png"></mj-image>
+        <mj-text color="#fff" align="center" padding="5" font-size="18px">4707</mj-text>
+        <mj-text color="#fff" align="center" padding="5" font-size="11px">Student Activists</mj-text>
+      </mj-column>
+
         <mj-column>
           <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/grad-cap-white-01.png"></mj-image>
           <mj-text color="#fff" align="center" padding="5" font-size="18px">247</mj-text>
           <mj-text color="#fff" align="center" padding="5" font-size="11px">Campuses</mj-text>
         </mj-column>
+
         <mj-column>
-          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_people.png"></mj-image>
-          <mj-text color="#fff" align="center" padding="5" font-size="18px">4707</mj-text>
-          <mj-text color="#fff" align="center" padding="5" font-size="11px">Student Activists</mj-text>
-        </mj-column>
-        <mj-column>
-          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/policy-01.png"></mj-image>
-          <mj-text color="#fff" align="center" padding="5" font-size="18px">128</mj-text>
-          <mj-text color="#fff" align="center" padding="5" font-size="11px">Policy Change Initiatives</mj-text>
+          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_world-white.png"></mj-image>
+          <mj-text color="#fff" align="center" padding="5" font-size="18px">30</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="11px">Countries</mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
