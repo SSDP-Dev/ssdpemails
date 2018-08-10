@@ -158,7 +158,7 @@
     <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
       <mj-column>
         <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
-          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> This email was sent to tyler@ssdp.org.<br /> To stop receiving emails, click here.</mj-text>
+          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> To stop receiving emails, click here.</mj-text>
       </mj-column>
     </mj-section>
 
