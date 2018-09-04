@@ -19,8 +19,8 @@
       <mj-group width="80%">
         <mj-column border="3px solid #FAA732">
           <mj-text color="#636467" font-family="open sans" font-size="12px" line-height="1.5">
-            Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts:
-            <br />Your 2017 gifts:<br />Your 2016 gifts:<br /><br /></strong>If Statement
+      <a href="https://ssdp.org/donate">Sensible Society</a> members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts: {{ recipient.custom_values_for_display['2014_donation_total'] }}
+    <br />Your 2017 gifts: {{ recipient.custom_values_for_display['17_eoy_total'] }}<br />Your 2016 gifts:  {{ recipient.custom_values_for_display['16_eoy_total'] }}<br /><br /></strong>{% if recipient.has_donated? %}Thank you for all of your support to build a more Sensible Society!{% else %}Will you join us in building a more Sensible Society?{% endif %}
           </mj-text>
         </mj-column>
       </mj-group>
@@ -169,7 +169,7 @@
     <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
       <mj-column>
         <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
-          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> To stop receiving emails, click here.</mj-text>
+          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> To stop receiving emails, click <a href="{{ settings.site.unsubscribe_url }}">here</a>.</mj-text>
       </mj-column>
     </mj-section>
 
