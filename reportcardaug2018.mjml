@@ -130,7 +130,8 @@
 
         <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
           NEW CHAPTERS
-          <ul>
+        </mj-text>
+        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">          <ul>
           <li>Miami University (Ohio)</li>
             <li>California Polytechnic State University</li>
             <li>San Diego State University</li>
@@ -143,18 +144,16 @@
             <li>Florida A&M University College of Law</li>
             <li>Georgia Institute of Technology</li>
           <li>Pennsylvania State University</li>
-          </ul>
-        </mj-text>
-        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
+          </ul></mj-text>
 
         <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
           SSDP STAFF RECOMMENDED READING
         </mj-text>
         <mj-text color="#636467" font-family="Open Sans" line-height="1.5">
           <p>
-            Lauren: <a href="https://www.psymposia.com/magazine/reclaiming-your-identity-as-a-drug-user/">Reclaiming Your Identity as a Drug User</a><br /> Luis: <a href="https://ssdp.org/blog/in-mexico-ssdp-activists-fight-violence-and-stigma-caused-by-the-war-on-drugs/">In Mexico, SSDP Activists Fight Violence and Stigma Caused by the War on Drugs</a><br
-            /> Rachel: <a href="https://www.nytimes.com/aponline/2018/07/13/us/ap-us-safe-injection-sites.html">'It keeps us safe': An NYC bathroom set up to stem overdoses</a><br /> Vilmarie: <a href="https://www.npr.org/sections/health-shots/2018/07/12/628136694/harm-reduction-movement-hits-obstacles">Cities planning supervised drug injection sites fear justice department reaction</a><br
-            /> Jake: <a href="https://uk.reuters.com/article/uk-mexico-crime/incoming-mexican-president-to-seek-negotiated-peace-in-drug-war-idUKKBN1JW22U">Incoming Mexican president to seek negotiated peace in drug war</a><br /> Hannah: <a href="https://www.marijuanamoment.net/analysis-gop-congress-has-blocked-dozens-of-marijuana-amendments/">Analysis: GOP Congress Has Blocked Dozens Of Marijuana Amendments</a></p>
+            Vilmarie: <a href="http://www.chicagotribune.com/entertainment/ct-ent-mental-health-workshop-20180803-story.html#">Community organizers launch de-escalation workshop to help Chicagoans during mental health crises.</a><br /> Lauren: <a href="https://www.marijuanamoment.net/congressional-ban-on-d-c-marijuana-sales-drives-arrests-new-police-data-suggests/">Congressional Ban on DC Marijuana Sales Drives Arrests, New Police Data Suggests</a><br
+            /> Stacia: <a href="https://www.thecut.com/article/what-are-your-weaknesses-job-interview.html">How should I explain my weaknesses in a job interview?’</a><br /> Vilmarie: <a href="https://www.npr.org/sections/health-shots/2018/07/12/628136694/harm-reduction-movement-hits-obstacles">Cities planning supervised drug injection sites fear justice department reaction</a><br
+            /> Jake: <a href="https://www.tdpf.org.uk/resources/publications/national-drug-coordinator-jind%C5%99ich-vobo%C5%99il-presents-national-drug-strategy">Czech drug tsar calls for legalization and regulations of all drugs</a><br /> Rachel: <a href="https://www.thenation.com/article/profits-prison-system/">Who profits from our prison system? Mapping the corporations and firms with stakes in our jails, prisons, and immigrant-detention centers</a><br /> Elise: <a href="https://digboston.com/guest-opinion-thanks-but-no-thanks/">A letter to the Cannabis World Congress & Business Exposition</a><br /> Luis: <a href="https://www.theguardian.com/society/2018/aug/12/i-dont-think-i-look-like-a-stoner-the-women-changing-the-face-of-the-cannabis-industry">‘I don’t think I look like a stoner’: the women changing the face of the cannabis industry</a></p>
         </mj-text>
       </mj-column>
     </mj-section>
