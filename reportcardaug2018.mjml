@@ -8,8 +8,7 @@
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-column>
         <mj-spacer height="10px" />
-        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">Dear supporter, <br /><br />Stay sensible,<br
-          /><br /> Your friends at SSDP
+        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">Dear supporter, <br /><br />Stay sensible,<br /><br /> Your friends at SSDP
         </mj-text>
       </mj-column>
     </mj-section>
@@ -91,61 +90,72 @@
           MAKING SENSE
         </mj-text>
         <mj-text font-family="Open Sans" line-height="1.5" color="#636467">
-          <p><strong>Southeast Region</strong></p>
+          <p><strong>Austria</strong></p>
           <ul>
-            <li style="font-weight: 400;"><span style="font-weight: 400;">University of South Florida SSDP co-hosted CannaDay Orlando Marijuana Conference and Expo with Regulate Florida on July 14th. The event was well attended by Florida Medical Marijuana patients, veterans, USF students, and members of the greater Orlando area.
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Members of SSDP Austria participated in harm reduction certification trainings with PsyCare and DAATH (a Hungarian psychedelic society). To conclude their training, members volunteered at a music festival in Austria conducting first aid and psychedelic counseling. 
 </span></li>
           </ul>
-          <p><strong>Mid-Atlantic Region</strong></p>
+          <p><strong>Gambia</strong></p>
           <ul>
-            <li style="font-weight: 400;"><span style="font-weight: 400;">The University of Pittsburgh SSDP and the Multidisciplinary Association for Psychedelic Studies (MAPS) co-hosted the Sleeping Octopus Assembly on Psychedelics Conference, in Pittsburgh, Pennsylvania, from July 13-15, 2018. This conference featured presentations from key figures in the psychedelic research and policy community, a psychedelic-themed comedy show, live musical performances, and a benefit dinner for MAPS.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Gambia, in collaboration with RAID-THE GAMBIA, organized a late Support Don't Punish event by hosting an educational mini-conference about harm reduction and public health approaches to drug policy. About 65 people across the country’s northern region participated, including the Regional Governor, Regional Youth Chairman, and senior staff members from the Drug Law Enforcement Agency.</span></li>
           </ul>
-          <p><strong>Pacific Region</strong></p>
+          <p><strong>Ghana</strong></p>
           <ul>
-            <li style="font-weight: 400;"><span style="font-weight: 400;">Occidental College SSDPers successfully expanded their school’s Good Samaritan Policy so that there are no longer special circumstances under which it couldn’t be applied
+            <li style="font-weight: 400;"><span style="font-weight: 400;">West Africa Global Fellow Moronfolu Adeniyi ‘14 along with SSDP Ghana founder and Board member Juana Boateng ‘16 spoke at the 5th West Africa Executive Course on Human Rights and Drug Policy in Accra. Moronfolu gave his thoughts on the current status of Nigerian drug policies while also noting some of SSDP Nigeria’s current efforts to provide more evidence-based drug education in schools. Juana gave a similar evaluation of Ghana’s drug policies along with an assessment on the success of youth-driven activism in her country. </span></li>
+          </ul>
+          <p><strong>Heartland Region</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Hamline SSDP changed their campus Medical cannabis policies. Now, CBD is allowed in all forms; THC is allowed in capsule form only, no smoking or vaporization allowed on campus.
 </span></li>
           </ul>
-          <p><strong>International</strong></p>
+          <p><strong>India</strong></p>
           <ul>
-            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP chapters in eight countries participated in this year’s 2018 Support Don’t Punish Global Day of Action. Some of the highlights include:
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Kawal Deep Kour (Assam Don Bosco University) worked with SSDP Delhi to successfully execute their first ever "High Tea" event, which succeeded in fostering a comfortable environment to have a non-judgemental discussion about drug use and policy in India. The event had a fantastic turnout and even made the local news. 
 </span></li>
-            <ul><li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Nigeria organized marches and educational rallies in five different locations throughout the country and were joined by representatives of law enforcement and the Ministry of Health at the Abeokuta event. </span></li>
-            <li style="font-weight: 400;"><span style="font-weight: 400;">SSSDP Sierra Leone held a day long conference attended by the Minister for Youth Affairs, who called it “the most outstanding, popular and successful drug policy program ever organized in Sierra Leone.” </span></li>
-            <li style="font-weight: 400;"><span style="font-weight: 400;">EPSD México held an educational conference in México City that featured speeches on health and drug policy. Similar events were held in three other Mexican states. </span></li>
-              <li style="font-weight: 400;"><span style="font-weight: 400;">For a full list of Support Don’t Highlights from our network, <a href="https://ssdp.org/blog/ssdp-participates-in-2018-support-dont-punish-day-of-action/">check out our recap blog post.</a>
- </span></li>
-            </ul>
+          </ul>
+          <p><strong>Mexico</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">EPSD Mexico was added to the first ever Mexico City Youth Council, which was created for youth to give recommendations on public policy to the Mexico City Governmen. The chapter wants to use this platform to fund better health services for people who use drugs. 
+</span></li>
+          </ul>
+
+          <p><strong>Nigeria
+</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Nigeria students in Abeokuta and Ibadan conducted HIV screenings, counseling referrals, and distributed condoms on campus as part of a harm reduction campus outreach campaign. 
+</span></li>
           </ul>
         </mj-text>
-        <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
-          IN THE NEWS
-        </mj-text>
-        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">
-        <ul>
-          <li>Congressional Republicans have blocked at least 34 marijuana and drug policy amendmendments from being considered on the House floor during this Congress. As Chairman of the House Rules Committee, Congressman Pete Sessions (R-TX) is largely responsible for blocking these amendments and newly proposed bills.
-</li>
-          <li>A new study conducted by researchers from the University of California San Diego and Weill Cornell Medical College found state medical cannabis laws are associated with significant reductions in opioid prescriptions. "[If] all the states had legalized medical cannabis by 2014, Medicaid annual spending on opioid prescriptions would be reduced by 17.8 million dollars," the researchers projected. The study is being published in the journal Addiction.
-</li>
-          <li>NORML launched a <a href="http://blog.norml.org/2018/07/12/2018-congressional-letter-writing-campaign/">letter-writing campaign</a> to garner constitution support prior to the organization’s lobby day in D.C. July 23rd. You can still write your representatives and senators, <a href="http://blog.norml.org/2018/07/12/2018-congressional-letter-writing-campaign/">take action!</a>
-</li>
-          <li><a href="https://www.marijuanamoment.net/legalizing-marijuana-doesnt-lead-to-higher-youth-use-new-study-shows/">New study</a> undermines prohibitionists’ claims that legalization causes more youth marijuana use.
-</li></ul></mj-text>
+
 
         <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
           NEW CHAPTERS
+          <ul>
+          <li>Miami University (Ohio)</li>
+            <li>California Polytechnic State University</li>
+            <li>San Diego State University</li>
+            <li>Widener University - Delaware Law School</li>
+            <li>Pennsylvania State University</li>
+            <li>Edmond Memorial High School</li>
+            <li>University of North Carolina Chapel Hill</li>
+            <li>Emory University</li>
+            <li>SSDP Belgium</li>
+            <li>Florida A&M University College of Law</li>
+            <li>Georgia Institute of Technology</li>
+          <li>Pennsylvania State University</li>
+          </ul>
         </mj-text>
         <mj-text color="#636467" font-family="Open Sans" line-height="1.5">Placeholder</mj-text>
 
         <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
           SSDP STAFF RECOMMENDED READING
         </mj-text>
-        <mj-text color="#636467" font-family="Open Sans" line-height="1.5"><p>
-          Lauren: <a href="https://www.psymposia.com/magazine/reclaiming-your-identity-as-a-drug-user/">Reclaiming Your Identity as a Drug User</a><br />
-          Luis: <a href="https://ssdp.org/blog/in-mexico-ssdp-activists-fight-violence-and-stigma-caused-by-the-war-on-drugs/">In Mexico, SSDP Activists Fight Violence and Stigma Caused by the War on Drugs</a><br />
-          Rachel: <a href="https://www.nytimes.com/aponline/2018/07/13/us/ap-us-safe-injection-sites.html">'It keeps us safe': An NYC bathroom set up to stem overdoses</a><br />
-          Vilmarie: <a href="https://www.npr.org/sections/health-shots/2018/07/12/628136694/harm-reduction-movement-hits-obstacles">Cities planning supervised drug injection sites fear justice department reaction</a><br />
-          Jake: <a href="https://uk.reuters.com/article/uk-mexico-crime/incoming-mexican-president-to-seek-negotiated-peace-in-drug-war-idUKKBN1JW22U">Incoming Mexican president to seek negotiated peace in drug war</a><br />
-          Hannah: <a href="https://www.marijuanamoment.net/analysis-gop-congress-has-blocked-dozens-of-marijuana-amendments/">Analysis: GOP Congress Has Blocked Dozens Of Marijuana Amendments</a></p></mj-text>
+        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">
+          <p>
+            Lauren: <a href="https://www.psymposia.com/magazine/reclaiming-your-identity-as-a-drug-user/">Reclaiming Your Identity as a Drug User</a><br /> Luis: <a href="https://ssdp.org/blog/in-mexico-ssdp-activists-fight-violence-and-stigma-caused-by-the-war-on-drugs/">In Mexico, SSDP Activists Fight Violence and Stigma Caused by the War on Drugs</a><br
+            /> Rachel: <a href="https://www.nytimes.com/aponline/2018/07/13/us/ap-us-safe-injection-sites.html">'It keeps us safe': An NYC bathroom set up to stem overdoses</a><br /> Vilmarie: <a href="https://www.npr.org/sections/health-shots/2018/07/12/628136694/harm-reduction-movement-hits-obstacles">Cities planning supervised drug injection sites fear justice department reaction</a><br
+            /> Jake: <a href="https://uk.reuters.com/article/uk-mexico-crime/incoming-mexican-president-to-seek-negotiated-peace-in-drug-war-idUKKBN1JW22U">Incoming Mexican president to seek negotiated peace in drug war</a><br /> Hannah: <a href="https://www.marijuanamoment.net/analysis-gop-congress-has-blocked-dozens-of-marijuana-amendments/">Analysis: GOP Congress Has Blocked Dozens Of Marijuana Amendments</a></p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
