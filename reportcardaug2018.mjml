@@ -104,14 +104,6 @@
             <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Nigeria students in Abeokuta and Ibadan conducted HIV screenings, counseling referrals, and condom distribution on campus as part of a harm reduction campus outreach campaign. 
 </span></li>
           </ul>
-
-          <p><strong>United States
-</strong></p>
-          <ul>
-            <li style="font-weight: 400;"><span style="font-weight: 400;">Hamline SSDP changed their campus medical cannabis policies to allow CBD in all forms and THC in capsule form.
-
-</span></li>
-          </ul>
         </mj-text>
 
 
@@ -174,9 +166,9 @@
     <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
       <mj-column>
         <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
-          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> To stop receiving emails, click <a href="{{ settings.site.unsubscribe_url }}">here</a>.</mj-text>
+          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> To stop receiving emails, click <a href="{{ settings.site.unsubscribe_url }}">here</a>. {{ body }}
+</mj-text>
       </mj-column>
     </mj-section>
-
   </mj-body>
 </mjml>
