@@ -9,8 +9,9 @@
       <mj-column>
         <mj-spacer height="10px" />
         <mj-text font-family="Open Sans" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />Over the course of 20 years, Students for Sensible Drug Policy members have come together in our communities, at conferences, and across oceans because we understand this: the War on Drugs is an affront to human rights, cognitive liberty, and evidence-based approaches to drugs and the people who use them. We don’t agree on everything -- some days, we don’t agree on much! -- but we do agree that no one should be denied their best future because they use drugs, that access to harm reduction interventions and qualified treatment should be abundant, and that young people’s voices will propel decision makers to sensible solutions to our toughest concerns.
-<br /><br /> Today we honor 20 years of chapter meetings, sit-ins, marches, petitions, lobby days, strategy sessions, drafting meetings, coalition building, phone banking, and -- sometimes -- dancing, and we plan for 20 more. We hope you’ll celebrate with us by <a href=”ssdp.org”>making a gift of any amount</a>, planning to <a href=”party.ssdp.org”>attend a birthday party</a>, or broadcasting your support by changing your profile pic on social media.
-          <br />Stay sensible,<br /><br /> Your friends at SSDP
+
+<br /><br /> Today we honor 20 years of chapter meetings, sit-ins, marches, petitions, lobby days, strategy sessions, drafting meetings, coalition building, phone banking, and -- sometimes -- dancing, and we plan for 20 more. We hope you’ll celebrate with us by <a href=”https://ssdp.org/20th-birthday”>making a gift of any amount</a>, planning to <a href=”party.ssdp.org”>attend a birthday party</a>, or broadcasting your support by <a href=”https://www.facebook.com/9750810766/posts/10156444689735767/”>changing your profile pic</a> on social media.
+<br />Stay sensible,<br /><br /> Your friends at SSDP
         </mj-text>
       </mj-column>
     </mj-section>
@@ -45,17 +46,16 @@
       <mj-column width="70%">
         <mj-text color="#636467">
           <ol>
+            <li>University of Pittsburgh</li>
             <li>EPSD Mexico</li>
             <li>United Methodist University</li>
-            <li>University of Pittsburgh</li>
             <li>University of Vienna</li>
+            <li>Ferris State University</li>
+            <li>University College Dublin</li>
+            <li>SUNY Binghamton</li>
             <li>University of North Georgia Gainesville</li>
-            
-            <li>Hamline University</li>
             <li>University of Texas Austin</li>
-            <li>University of Minnesota Twin Cities</li>
-            <li>New College of Florida</li>
-            <li>North Dakota state University</li>
+            <li>Hamline University</li>
           </ol>
         </mj-text>
       </mj-column>
