@@ -8,10 +8,13 @@
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-column>
         <mj-spacer height="10px" />
-        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />Over the course of 20 years, Students for Sensible Drug Policy members have come together in our communities, at conferences, and across oceans because we understand this: the War on Drugs is an affront to human rights, cognitive liberty, and evidence-based approaches to drugs and the people who use them. We don’t agree on everything -- some days, we don’t agree on much! -- but we do agree that no one should be denied their best future because they use drugs, that access to harm reduction interventions and qualified treatment should be abundant, and that young people’s voices will propel decision makers to sensible solutions to our toughest concerns.
-
-<br /><br /> Today we honor 20 years of chapter meetings, sit-ins, marches, petitions, lobby days, strategy sessions, drafting meetings, coalition building, phone banking, and -- sometimes -- dancing, and we plan for 20 more. We hope you’ll celebrate with us by <a href=”https://ssdp.org/20th-birthday”>making a gift of any amount</a>, planning to <a href=”party.ssdp.org”>attend a birthday party</a>, or broadcasting your support by <a href=”https://www.facebook.com/9750810766/posts/10156444689735767/”>changing your profile pic</a> on social media.
-<br />Stay sensible,<br /><br /> Your friends at SSDP
+        <mj-text font-family="Open Sans, Arial" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />Over the course of 20 years, Students for Sensible Drug Policy members have come together in our communities, at conferences, and across oceans because we understand this: the War on Drugs
+          is an affront to human rights, cognitive liberty, and evidence-based approaches to drugs and the people who use them. We don’t agree on everything -- some days, we don’t agree on much! -- but we do agree that no one should be denied their best
+          future because they use drugs, that access to harm reduction interventions and qualified treatment should be abundant, and that young people’s voices will propel decision makers to sensible solutions to our toughest concerns.
+          {{ body }}
+          <br /><br /> Today we honor 20 years of chapter meetings, sit-ins, marches, petitions, lobby days, strategy sessions, drafting meetings, coalition building, phone banking, and -- sometimes -- dancing, and we plan for 20 more. We hope you’ll
+          celebrate with us by <a href="https://ssdp.org/20th-birthday">making a gift of any amount</a>, planning to <a href="party.ssdp.org">attend a birthday party</a>, or broadcasting your support by <a href="https://www.facebook.com/9750810766/posts/10156444689735767/">changing your profile pic</a>          on social media.
+          <br />Stay sensible,<br /><br /> Your friends at SSDP
         </mj-text>
       </mj-column>
     </mj-section>
@@ -19,7 +22,7 @@
     <mj-section padding="10px" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-group width="80%">
         <mj-column border="3px solid #FAA732">
-          <mj-text color="#636467" font-family="open sans" font-size="12px" line-height="1.5">
+          <mj-text color="#636467" font-family="Open Sans, Arial" font-size="12px" line-height="1.5">
             Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts:  {{ recipient.custom_values_for_display['2014_donation_total'] }}
             <br />Your 2017 gifts: {{ recipient.custom_values_for_display['17_eoy_total'] }}<br />Your 2016 gifts: {{ recipient.custom_values_for_display['16_eoy_total'] }}<br /><br /></strong>{% if recipient.has_donated? %}Thank you for all of your support
             to build a more Sensible Society!{% else %}Will you join us in building a more Sensible Society?{% endif %}
@@ -30,21 +33,21 @@
 
     <mj-section background-color="#146f8c">
       <mj-group>
-      <mj-column>
-        <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/policy-01.png"></mj-image>
-        <mj-text color="#fff" align="center" padding="5" font-size="18px">2,000</mj-text>
-        <mj-text color="#fff" align="center" padding="5" font-size="11px">Policy Change Initiatives</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_people.png"></mj-image>
-        <mj-text color="#fff" align="center" padding="5" font-size="18px">38,000</mj-text>
-        <mj-text color="#fff" align="center" padding="5" font-size="11px">Alumni Members</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_world-white.png"></mj-image>
-        <mj-text color="#fff" align="center" padding="5" font-size="18px">38</mj-text>
-        <mj-text color="#fff" align="center" padding="5" font-size="11px">Countries</mj-text>
-      </mj-column>
+        <mj-column>
+          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/policy-01.png"></mj-image>
+          <mj-text color="#fff" align="center" padding="5" font-size="18px">2,000</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="11px">Policy Change Initiatives</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_people.png"></mj-image>
+          <mj-text color="#fff" align="center" padding="5" font-size="18px">38,000</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="11px">Alumni Members</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_world-white.png"></mj-image>
+          <mj-text color="#fff" align="center" padding="5" font-size="18px">38</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="11px">Countries</mj-text>
+        </mj-column>
         <mj-column>
           <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/grad-cap-white-01.png"></mj-image>
           <mj-text color="#fff" align="center" padding="5" font-size="18px">1223</mj-text>
@@ -62,8 +65,8 @@
 
     <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-bottom="0px">
       <mj-column>
-        <mj-text color="#136F8D" font-size="20px" font-family="Open Sans">CAT LEADERBOARD</mj-text>
-        <mj-text color="#636467" font-size="12px" font-family="Open sans"><a href="https://cat.ssdp.org">Click here to view the Chapter Activity Tracker</a></mj-text>
+        <mj-text color="#136F8D" font-size="20px" font-family="Open Sans, Arial">CAT LEADERBOARD</mj-text>
+        <mj-text color="#636467" font-size="12px" font-family="Open Sans, Arial"><a href="https://cat.ssdp.org">Click here to view the Chapter Activity Tracker</a></mj-text>
       </mj-column>
     </mj-section>
 
@@ -91,12 +94,10 @@
 
     <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
       <mj-column>
-        <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
+        <mj-text color="#136F8D" font-family="Open Sans, Arial" font-size="20px">
           MAKING SENSE
         </mj-text>
-        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">
-
-          </ul>
+        <mj-text font-family="Open Sans, Arial" line-height="1.5" color="#636467">
           <p><strong>Higher Education Act Reform</strong></p>
           <ul>
             <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP organized a multi-year coalition to reform the Higher Education Act by taking the fangs out of the Aid Elimination Penalty, which had previously restricted anyone convicted of a drug-related offense from receiving financial aid. Now, we’re working to eliminate the question altogether. </span></li>
@@ -138,12 +139,11 @@ We won’t all spend our lives advocating for drug policy reform or in service t
           </ul>
         </mj-text>
 
-
-        <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
+        <mj-text color="#136F8D" font-family="Open Sans, Arial" font-size="20px">
           EVENTS
         </mj-text>
-        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">
-        <p><strong>Regional Conferences</strong></p>
+        <mj-text color="#636467" font-family="Open Sans, Arial" line-height="1.5">
+          <p><strong>Regional Conferences</strong></p>
           <ul>
             <li><a href="https://www.facebook.com/events/669276420123933/">Northeast Regional Conferece</a> | October 6 at SUNY Birmingham</li>
             <li><a href="https://www.facebook.com/events/1874080696017404/">Midwest Regional Conference</a> | October 13 at Kent State University</li>
@@ -154,18 +154,18 @@ We won’t all spend our lives advocating for drug policy reform or in service t
             <li><a href="https://conference.ssdp.org">SSDP2019</a> | March 29-31, 2019 near Chicago, IL</li>
           </ul>
           <p><strong>Birthday parties</strong></p>
-            <ul>
+          <ul>
             <li>October 5 in Seattle, WA</li>
             <li>October 9 in Portland, OR</li>
             <li>October 26 in Denver, CO</li>
             <li>COMING SOON: Oakland, CA and New York, NY</li>
-            </ul>
+          </ul>
         </mj-text>
       </mj-column>
     </mj-section>
-
+<mj-section padding-top="0">
     <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
-      <mj-text align="center" font-size="16px" font-family="open sans" color="#003249">Connect with us!</mj-text>
+      <mj-text align="center" font-size="16px" font-family="Open Sans, Arial" color="#003249">Connect with us!</mj-text>
       <mj-group>
         <mj-column>
           <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-facebook-1-240.png"></mj-image>
@@ -184,10 +184,13 @@ We won’t all spend our lives advocating for drug policy reform or in service t
 
     <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
       <mj-column>
-        <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
-          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> To stop receiving emails, click <a href="{{ settings.site.unsubscribe_url }}">here</a>. {{ body }}
-</mj-text>
+        <mj-text align="center" font-family="Open Sans, Arial" line-height="1.5" color="#fff">
+          Students for Sensible Drug Policy<br />
+          1011 O St NW, #1, Washington, DC 20001, United States<br />
+          To stop receiving emails, click <a href="{{ settings.site.unsubscribe_url }}">here</a>.
+        </mj-text>
       </mj-column>
+    </mj-section>
     </mj-section>
   </mj-body>
 </mjml>
