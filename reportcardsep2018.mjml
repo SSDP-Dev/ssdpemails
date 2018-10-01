@@ -1,0 +1,174 @@
+<mjml>
+  <mj-body>
+
+    <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-top="3px solid #17BEBB" padding="-25px">
+      <mj-image src="https://ssdp.org/wp-content/uploads/2018/06/Report-card-september.png"></mj-image>
+    </mj-section>
+
+    <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-column>
+        <mj-spacer height="10px" />
+        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />And we’re back! We’re kicking off the 2018 school year with some big changes: Jake’s moved to Budapest to pursue his master’s degree in human rights; we now have Fellows organizing their peers
+          in Africa, Europe, and Latin America. Hannah is sharpening our focus on federal policy reforms as we enlist more allies to finally kill the HEA Aid Elimination Penalty. We’re gearing up for a big election when we’ll turn out tens of thousands
+          of young voters in races where drug policy is front and center. And while we’re at it, we’ll support 200 policy change initiatives made by more than 5000 students in no less than 35 countries.<br /><br /> After 20 years, we’re working as hard
+          as ever to create a more sensible future, and we’re so thankful to have you standing with us!
+          <br />Stay sensible,<br /><br /> Your friends at SSDP
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-group width="80%">
+        <mj-column border="3px solid #FAA732">
+          <mj-text color="#636467" font-family="open sans" font-size="12px" line-height="1.5">
+            Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts:  {{ recipient.custom_values_for_display['2014_donation_total'] }}
+            <br />Your 2017 gifts: {{ recipient.custom_values_for_display['17_eoy_total'] }}<br />Your 2016 gifts: {{ recipient.custom_values_for_display['16_eoy_total'] }}<br /><br /></strong>{% if recipient.has_donated? %}Thank you for all of your support
+            to build a more Sensible Society!{% else %}Will you join us in building a more Sensible Society?{% endif %}
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section background-color="#17BEBB">
+      <mj-text color="#fff" align="center"><strong>Ready to take action? Become an SSDPer today!</strong></mj-text>
+      <mj-spacer height="20px" />
+      <mj-button background-color="#c5ff00" color="#266a8c" href="https://ssdp.nationbuilder.com/become_an_ssdper"><strong>BECOME AN SSDPER</strong></mj-button>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-bottom="0px">
+      <mj-column>
+        <mj-text color="#136F8D" font-size="20px" font-family="Open Sans">CAT LEADERBOARD</mj-text>
+        <mj-text color="#636467" font-size="12px" font-family="Open sans"><a href="https://cat.ssdp.org">Click here to view the Chapter Activity Tracker</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
+      <mj-column width="70%">
+        <mj-text color="#636467">
+          <ol>
+            <li>EPSD Mexico</li>
+            <li>United Methodist University</li>
+            <li>University of Pittsburgh</li>
+            <li>University of Vienna</li>
+            <li>University of North Georgia Gainesville</li>
+            <li>Hamline University</li>
+            <li>University of Texas Austin</li>
+            <li>University of Minnesota Twin Cities</li>
+            <li>New College of Florida</li>
+            <li>North Dakota state University</li>
+          </ol>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/CAT.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
+      <mj-column>
+        <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
+          MAKING SENSE
+        </mj-text>
+        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">
+
+          </ul>
+          <p><strong>Gambia</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Gambia hosted 65 people -- including governmental decision-makers -- for a conference on harm reduction and public health.</span></li>
+          </ul>
+          <p><strong>Ghana</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">West Africa Global Fellow Moronfolu Adeniyi ‘14 and SSDP Ghana founder and Board member Juana Boateng ‘16 spoke at the 5th West Africa Executive Course on Human Rights and Drug Policy in Accra.
+ </span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Ghana hosted their second National Open Forum on Drugs in Accra.
+
+ </span></li>
+          </ul>
+          <p><strong>India</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Assam Don Bosco University and SSDP Delhi held a "High Tea" event fostering a comfortable environment to have a non-judgemental discussion about drug use and policy in India.
+
+</span></li>
+          </ul>
+          <p><strong>Mexico</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">EPSD Mexico was added to the Mexico City Youth Council, created for youth to give recommendations on public policy to the Mexico City government.
+
+</span></li>
+          </ul>
+
+          <p><strong>Nigeria
+</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Nigeria students in Abeokuta and Ibadan conducted HIV screenings, counseling referrals, and condom distribution on campus as part of a harm reduction campus outreach campaign.
+</span></li>
+          </ul>
+        </mj-text>
+
+
+        <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
+          NEW CHAPTERS
+        </mj-text>
+        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">
+          <ul>
+            <li>Miami University (Ohio)</li>
+            <li>California Polytechnic State University</li>
+            <li>San Diego State University</li>
+            <li>Widener University - Delaware Law School</li>
+            <li>Pennsylvania State University</li>
+            <li>Edmond Memorial High School</li>
+            <li>University of North Carolina Chapel Hill</li>
+            <li>Emory University</li>
+            <li>SSDP Belgium</li>
+            <li>Florida A&M University College of Law</li>
+            <li>Georgia Institute of Technology</li>
+            <li>Pennsylvania State University</li>
+          </ul>
+        </mj-text>
+
+        <mj-text color="#136F8D" font-family="Open Sans" font-size="20px">
+          SSDP STAFF RECOMMENDED READING
+        </mj-text>
+        <mj-text color="#636467" font-family="Open Sans" line-height="1.5">
+          <ul>
+            <li>Vilmarie: <a href="http://www.chicagotribune.com/entertainment/ct-ent-mental-health-workshop-20180803-story.html#">Community organizers launch de-escalation workshop to help Chicagoans during mental health crises.</a></li>
+            <li>Lauren: <a href="https://www.marijuanamoment.net/congressional-ban-on-d-c-marijuana-sales-drives-arrests-new-police-data-suggests/">Congressional Ban on DC Marijuana Sales Drives Arrests, New Police Data Suggests</a></li>
+            <li>Stacia: <a href="https://www.thecut.com/article/what-are-your-weaknesses-job-interview.html">How should I explain my weaknesses in a job interview?’</a></li>
+            <li>Jake: <a href="https://www.tdpf.org.uk/resources/publications/national-drug-coordinator-jind%C5%99ich-vobo%C5%99il-presents-national-drug-strategy">Czech drug tsar calls for legalization and regulations of all drugs</a></li>
+            <li>Rachel: <a href="https://www.thenation.com/article/profits-prison-system/">Who profits from our prison system? Mapping the corporations and firms with stakes in our jails, prisons, and immigrant-detention centers</a></li>
+            <li>Elise: <a href="https://digboston.com/guest-opinion-thanks-but-no-thanks/">A letter to the Cannabis World Congress & Business Exposition</a></li>
+            <li>Luis: <a href="https://www.theguardian.com/society/2018/aug/12/i-dont-think-i-look-like-a-stoner-the-women-changing-the-face-of-the-cannabis-industry">‘I don’t think I look like a stoner’: the women changing the face of the cannabis industry</a></li>
+            <li>Betty: <a href="https://www.prri.org/wp-content/uploads/2018/07/AMERICAN-DEMOCRACY-IN-CRISIS.pdf">American Democracy in Crisis: The Challenges of Voter Knowledge, Participation, and Polarization</a></li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-text align="center" font-size="16px" font-family="open sans" color="#003249">Connect with us!</mj-text>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-facebook-1-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-twitter-1-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.instagram.com/studentsforsensibledrugpolicy/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-instagram-11-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-youtube-6-240.png"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
+      <mj-column>
+        <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
+          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> To stop receiving emails, click <a href="{{ settings.site.unsubscribe_url }}">here</a>. {{ body }}
+</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
