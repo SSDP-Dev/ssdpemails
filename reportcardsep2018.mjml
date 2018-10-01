@@ -8,10 +8,8 @@
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-column>
         <mj-spacer height="10px" />
-        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />And we’re back! We’re kicking off the 2018 school year with some big changes: Jake’s moved to Budapest to pursue his master’s degree in human rights; we now have Fellows organizing their peers
-          in Africa, Europe, and Latin America. Hannah is sharpening our focus on federal policy reforms as we enlist more allies to finally kill the HEA Aid Elimination Penalty. We’re gearing up for a big election when we’ll turn out tens of thousands
-          of young voters in races where drug policy is front and center. And while we’re at it, we’ll support 200 policy change initiatives made by more than 5000 students in no less than 35 countries.<br /><br /> After 20 years, we’re working as hard
-          as ever to create a more sensible future, and we’re so thankful to have you standing with us!
+        <mj-text font-family="Open Sans" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />Over the course of 20 years, Students for Sensible Drug Policy members have come together in our communities, at conferences, and across oceans because we understand this: the War on Drugs is an affront to human rights, cognitive liberty, and evidence-based approaches to drugs and the people who use them. We don’t agree on everything -- some days, we don’t agree on much! -- but we do agree that no one should be denied their best future because they use drugs, that access to harm reduction interventions and qualified treatment should be abundant, and that young people’s voices will propel decision makers to sensible solutions to our toughest concerns.
+<br /><br /> Today we honor 20 years of chapter meetings, sit-ins, marches, petitions, lobby days, strategy sessions, drafting meetings, coalition building, phone banking, and -- sometimes -- dancing, and we plan for 20 more. We hope you’ll celebrate with us by <a href=”ssdp.org”>making a gift of any amount</a>, planning to <a href=”party.ssdp.org”>attend a birthday party</a>, or broadcasting your support by changing your profile pic on social media.
           <br />Stay sensible,<br /><br /> Your friends at SSDP
         </mj-text>
       </mj-column>
@@ -52,6 +50,7 @@
             <li>University of Pittsburgh</li>
             <li>University of Vienna</li>
             <li>University of North Georgia Gainesville</li>
+            
             <li>Hamline University</li>
             <li>University of Texas Austin</li>
             <li>University of Minnesota Twin Cities</li>
