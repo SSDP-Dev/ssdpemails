@@ -72,16 +72,16 @@
       <mj-column width="70%">
         <mj-text color="#636467">
           <ol>
-            <li>University of Pittsburgh</li>
-            <li>EPSD Mexico</li>
-            <li>United Methodist University</li>
-            <li>University of Vienna</li>
             <li>Ferris State University</li>
-            <li>University College Dublin</li>
-            <li>SUNY Binghamton</li>
+            <li>United Methodist University</li>
+            <li>University of Pittsburgh</li>
             <li>University of North Georgia Gainesville</li>
+            <li>Dublin City University</li>
+            <li>EPSD Mexico</li>
+            <li>University of Vienna</li>
             <li>University of Texas Austin</li>
-            <li>Hamline University</li>
+            <li>University at Albany</li>
+            <li>Kent State University</li>
           </ol>
         </mj-text>
       </mj-column>
@@ -96,7 +96,7 @@
           MAKING SENSE
         </mj-text>
         <mj-text font-family="Open Sans, Arial" line-height="1.5" color="#636467">
-          <p><strong>Higher Education Act Reform</strong></p>
+          <p><strong>Belarus</strong></p>
           <ul>
             <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP organized a multi-year coalition to reform the Higher Education Act by taking the fangs out of the Aid Elimination Penalty, which had previously restricted anyone convicted of a drug-related offense from receiving financial aid. Now, we’re working to eliminate the question altogether. </span></li>
           </ul>
