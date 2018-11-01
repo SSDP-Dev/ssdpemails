@@ -8,10 +8,12 @@
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-column>
         <mj-spacer height="10px" />
-        <mj-text font-family="Open Sans, Arial" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />This election season, getting out the youth vote is more important than ever. For the very first time, Millennials and post-Millennials make up an equal portion of eligible voters as Boomers. Combined with Gen X-ers, these DARE generations could make up nearly 60% of the electorate this year, and based on some pretty simple math, that should mean we're easily electing candidates and supporting initiatives that will usher in a golden era of drug policy reform. But that's not going to happen unless we turn out voters under 35. We’ve spent the fall registering young voters, educating them, and making sure they understand that their vote matters. Now, we need everyone’s help.
-
+        <mj-text font-family="Open Sans, Arial" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />This election season, getting out the youth vote is more important than ever. For the very first time, Millennials and post-Millennials make up an equal portion of eligible voters as Boomers.
+          Combined with Gen X-ers, these DARE generations could make up nearly 60% of the electorate this year, and based on some pretty simple math, that should mean we're easily electing candidates and supporting initiatives that will usher in a golden
+          era of drug policy reform. But that's not going to happen unless we turn out voters under 35. We’ve spent the fall registering young voters, educating them, and making sure they understand that their vote matters. Now, we need everyone’s help.
           {{ body }}
-          <br /><br /> We've set up <a href="https://phonebank.ssdp.org/" target="_blank" rel="noopener">phonebanks</a> for key states voting on drug policy reform initiatives which will only pass if people under 35 show up to vote. <strong>Whether or not you are a student, you can <a href="https://phonebank.ssdp.org" target="_blank" rel="noopener">increase youth voter participation through our phonebank</a></strong>. Be a part of the drug policy revolution -- start making calls today!
+          <br /><br /> We've set up <a href="https://phonebank.ssdp.org/" target="_blank" rel="noopener">phonebanks</a> for key states voting on drug policy reform initiatives which will only pass if people under 35 show up to vote. <strong>Whether or not you are a student, you can <a href="https://phonebank.ssdp.org" target="_blank" rel="noopener">increase youth voter participation through our phonebank</a></strong>.
+          Be a part of the drug policy revolution -- start making calls today!
           <br />Stay sensible,<br /><br /> Your friends at SSDP
         </mj-text>
       </mj-column>
@@ -209,45 +211,43 @@ Michigan State University
 SSDP Belgium
 </span></li>
 
-</ul>
+          </ul>
           <p><strong>Latin America</strong></p>
           <ul>
             <li style="font-weight: 400;"><span style="font-weight: 400;">
 EPSD Colombia
 </span></li>
 
-</ul>
+          </ul>
         </mj-text>
       </mj-column>
     </mj-section>
-<mj-section padding-top="0">
-    <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
-      <mj-text align="center" font-size="16px" font-family="Open Sans, Arial" color="#003249">Connect with us!</mj-text>
-      <mj-group>
-        <mj-column>
-          <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-facebook-1-240.png"></mj-image>
-        </mj-column>
-        <mj-column>
-          <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-twitter-1-240.png"></mj-image>
-        </mj-column>
-        <mj-column>
-          <mj-image href="https://www.instagram.com/studentsforsensibledrugpolicy/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-instagram-11-240.png"></mj-image>
-        </mj-column>
-        <mj-column>
-          <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-youtube-6-240.png"></mj-image>
-        </mj-column>
-      </mj-group>
-    </mj-section>
+    <mj-section padding-top="0">
+      <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+        <mj-text align="center" font-size="16px" font-family="Open Sans, Arial" color="#003249">Connect with us!</mj-text>
+        <mj-group>
+          <mj-column>
+            <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-facebook-1-240.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-twitter-1-240.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image href="https://www.instagram.com/studentsforsensibledrugpolicy/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-instagram-11-240.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-youtube-6-240.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
 
-    <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
-      <mj-column>
-        <mj-text align="center" font-family="Open Sans, Arial" line-height="1.5" color="#fff">
-          Students for Sensible Drug Policy<br />
-          1011 O St NW, #1, Washington, DC 20001, United States<br />
-          To stop receiving emails, click <a href="{{ settings.site.unsubscribe_url }}">here</a>.
-        </mj-text>
-      </mj-column>
-    </mj-section>
+      <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
+        <mj-column>
+          <mj-text align="center" font-family="Open Sans, Arial" line-height="1.5" color="#fff">
+            Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> To stop receiving emails, click <a href="{{ settings.site.unsubscribe_url }}">here</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
     </mj-section>
   </mj-body>
 </mjml>
