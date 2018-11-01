@@ -173,26 +173,50 @@ Europe Global Fellow Orsi Feher ‘16 spoke at the September CND Intersessional 
         </mj-text>
 
         <mj-text color="#136F8D" font-family="Open Sans, Arial" font-size="20px">
-          EVENTS
+          New Chapters
         </mj-text>
         <mj-text color="#636467" font-family="Open Sans, Arial" line-height="1.5">
-          <p><strong>Regional Conferences</strong></p>
+          <p><strong>United States</strong></p>
           <ul>
-            <li><a href="https://www.facebook.com/events/669276420123933/">Northeast Regional Conferece</a> | October 6 at SUNY Birmingham</li>
-            <li><a href="https://www.facebook.com/events/1874080696017404/">Midwest Regional Conference</a> | October 13 at Kent State University</li>
-            <li>Southeast Regional Conference | October 26-28 at University of Georgia</li>
-            <li>Southwest Regional Conference | November 3 at University of Texas Austin</li>
-            <li><a href="https://www.facebook.com/events/247984179160986/">European regional Conference</a> | November 10-11</li>
-            <li><a href="https://www.facebook.com/events/228165597810221/">Pacific Regional Conference</a> | December 1-2 at UC Santa Barbara</li>
-            <li><a href="https://conference.ssdp.org">SSDP2019</a> | March 29-31, 2019 near Chicago, IL</li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Georgia State University
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Eckerd College
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Volcano Vista High School
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+University of Alabama
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+University of Alabama at Huntsville
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Abraham Baldwin Agricultural College
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Stevens Institute of Technology
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Michigan State University
+</span></li>
           </ul>
-          <p><strong>Birthday parties</strong></p>
+          <p><strong>Europe</strong></p>
           <ul>
-            <li>October 5 in Seattle, WA</li>
-            <li>October 9 in Portland, OR</li>
-            <li>October 26 in Denver, CO</li>
-            <li>COMING SOON: Oakland, CA and New York, NY</li>
-          </ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+SSDP Belgium
+</span></li>
+
+</ul>
+          <p><strong>Latin America</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+EPSD Colombia
+</span></li>
+
+</ul>
         </mj-text>
       </mj-column>
     </mj-section>
