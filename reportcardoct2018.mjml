@@ -34,14 +34,9 @@
     <mj-section background-color="#146f8c">
       <mj-group>
         <mj-column>
-          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/policy-01.png"></mj-image>
-          <mj-text color="#fff" align="center" padding="5" font-size="18px">2,000</mj-text>
-          <mj-text color="#fff" align="center" padding="5" font-size="11px">Policy Change Initiatives</mj-text>
-        </mj-column>
-        <mj-column>
           <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_people.png"></mj-image>
-          <mj-text color="#fff" align="center" padding="5" font-size="18px">38,000</mj-text>
-          <mj-text color="#fff" align="center" padding="5" font-size="11px">Alumni Members</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="18px">6,231</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="11px">Members</mj-text>
         </mj-column>
         <mj-column>
           <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_world-white.png"></mj-image>
@@ -50,7 +45,7 @@
         </mj-column>
         <mj-column>
           <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/grad-cap-white-01.png"></mj-image>
-          <mj-text color="#fff" align="center" padding="5" font-size="18px">1223</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="18px">231</mj-text>
           <mj-text color="#fff" align="center" padding="5" font-size="11px">Campuses</mj-text>
         </mj-column>
       </mj-group>
