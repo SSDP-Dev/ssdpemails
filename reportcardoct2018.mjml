@@ -308,6 +308,75 @@ EPSD Colombia
                 </li>
         </ul>
         </mj-text>
+         <mj-text color="#136F8D" font-family="Open Sans, Arial" font-size="20px">
+          SSDP Staff recommended reading/links/resources
+        </mj-text>
+        <mj-text color="#636467" font-family="Open Sans, Arial" line-height="1.5">
+          <ul>
+            <li style="font-weight: 400;">
+              <span style="font-weight: 400;">Lauren:
+                <a href="https://www.amendtheraveact.org/doj-affirms-harm-reduction/" target="_blank" rel="noopener">
+                  A Big Win: DOJ Affirms Free Water and Drug Education Not a Violation of the RAVE Act
+                </a>
+              </span>
+            </li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Vilmarie:
+              <a href="https://dancesafe.org/are-drug-users-incapable-of-making-rational-decisions-an-open-letter-to-dr-elinore-mccance-katz/">
+                Are drug users incapable of making rational decisions? An open letter to Dr. Elinore McCance-Katz
+                </a>
+              </span>
+            </li>
+            <li style="font-weight: 400;">
+              <span style="font-weight: 400;">Jake:
+                <a href="https://ssdp.org/blog/the-paradigma-global-youth-coalition-asks-for-the-2019-high-level-ministerial-segment/">
+                  The Paradigma Global Youth Coalition Asks for the 2019 High Level Ministerial Segment
+                  </a>
+              </span>
+            </li>
+            <li style="font-weight: 400;">
+              <span style="font-weight: 400;">Luis:
+                <a href="https://hellogiggles.com/lifestyle/before-you-get-high-research-marijuana-industry-racism/">
+                  Before you get high, research how the marijuana industry mistreats Black and brown people
+                  </a>
+              </span>
+            </li>
+            <li style="font-weight: 400;">
+              <span style="font-weight: 400;">Hannah:
+              <a href="https://www.vox.com/policy-and-politics/2018/9/28/17913938/trump-opioid-epidemic-congress-support-act-bill-law">
+                Trump enacts a bipartisan bill to address the opioid epidemic, but experts and activist say it falls short
+                </a>
+              </span>
+            </li>
+            <li style="font-weight: 400;">
+              <span style="font-weight: 400;">Rachel:
+              <a href="https://www.marijuanamoment.net/new-york-bill-would-require-medical-marijuana-be-covered-by-public-health-insurance/">
+                New York bill would require medical marijuana be covered by public health insurance
+              </a>
+              </span>
+            </li>
+            <li style="font-weight: 400;">
+              <span style="font-weight: 400;">Elise:
+                <a href="https://www.prisonpolicy.org/reports/education.html">
+                  Getting Back on Course: Educational exclusion and attainment among formerly incarcerated people
+                </a>
+              </span>
+            </li>
+            <li style="font-weight: 400;">
+              <span style="font-weight: 400;">Vilmarie:
+                <a href="http://www.chicagotribune.com/news/local/breaking/ct-met-dan-bigg-heroin-obituary-20180821-story.html">
+                  Dan Bigg remembered as ‘revolutionary’ for approach to heroin crisis, pioneered life-saving naloxone, needle handouts
+                  </a>
+              </span>
+            </li>
+            <li style="font-weight: 400;">
+              <span style="font-weight: 400;">Betty:
+                <a href="http://www.pewresearch.org/fact-tank/2018/06/14/younger-generations-make-up-a-majority-of-the-electorate-but-may-not-be-a-majority-of-voters-this-november/">
+                  Younger generations make up a majority of the electorate, but may not be a majority of voters this November
+                  </a>
+              </span>
+            </li>
+        </ul>
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
