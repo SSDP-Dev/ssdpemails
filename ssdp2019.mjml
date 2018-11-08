@@ -1,0 +1,45 @@
+<mjml>
+  <mj-body width="600px">
+    <mj-section padding-top="0px" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-top="3px solid #17BEBB">
+    <mj-column width="100%"">
+      <mj-image padding="0px" src="https://conference.ssdp.org/wp-content/uploads/2018/11/ssdp2019-email.png"></mj-image>
+</mj-column>
+      <mj-column width="85%">
+        <mj-text color="#636467" font-size="16px" font-family="open sans" line-height="1.5">
+          {{body}}
+          <br />
+          <br />
+          Sensibly,
+          </mj-text>
+          <mj-image  src="https://ssdp.org/wp-content/uploads/2018/11/2018-Strategy-Summit-staff-group-BW-1.jpg"></mj-image>
+          <mj-text color="#636467" font-size="16px" font-family="open sans" line-height="1.5">
+          The SSDP Team
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-text align="center" font-size="16px" font-family="open sans" color="#003249">Connect with us!</mj-text>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-facebook-1-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-twitter-1-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.instagram.com/ssdpglobal/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-instagram-11-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-youtube-6-240.png"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
+      <mj-column>
+        <mj-text align="center" font-family="open sans" line-height="1.5" color="#fff">
+          Students for Sensible Drug Policy<br /> 1011 O St NW, #1, Washington, DC 20001, United States<br /> To stop receiving emails, click <a href=" {{ settings.site.unsubscribe_url }}">here</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
