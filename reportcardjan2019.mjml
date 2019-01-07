@@ -1,0 +1,231 @@
+<mjml>
+  <mj-body>
+
+    <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-top="3px solid #17BEBB" padding="-25px">
+      <mj-image src="https://ssdp.org/wp-content/uploads/2018/10/report-card-20th.png"></mj-image>
+    </mj-section>
+
+    <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-column>
+        <mj-spacer height="10px" />
+        <mj-text font-family="Open Sans, Arial" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />Thank you. 2018 was an incredible year for SSDP, as you know from our year-end Top 10. It was also a banner year for our alumni, who took a cannabis company public, held the line for values-driven implementation as a Massachusetts Cannabis Control Commissioner, dominated cannabis podcast and journalism, filed a medical marijuana ballot initiative in Nebraska, passed safe consumption in Denver, and contributed to the expansion of sensible drug policies everywhere. (That's the short version.) 
+          {{ body }}
+          <br /><br />Thank you to the students who are investing time in keeping their communities safe. Thank you to the alumni who are carrying their SSDP values into their work and lives. Thank you to all of the volunteers, advocates, donors, leaders, and mentors who understand that a strong and supported youth movement is critical to any such change. And thank you, for defending the values of justice, safety, and education as we steer this monumental social change movement.
+          <br />Stay sensible,<br /><br /> Your friends at SSDP
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-group width="80%">
+        <mj-column border="3px solid #FAA732">
+          <mj-text color="#636467" font-family="Open Sans, Arial" font-size="12px" line-height="1.5">
+            Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts:  {{ recipient.custom_values_for_display['2014_donation_total'] }}
+            <br />Your 2017 gifts: {{ recipient.custom_values_for_display['17_eoy_total'] }}<br />Your 2016 gifts: {{ recipient.custom_values_for_display['16_eoy_total'] }}<br /><br /></strong>{% if recipient.has_donated? %}Thank you for all of your support
+            to build a more Sensible Society!{% else %}Will you join us in building a more Sensible Society?{% endif %}
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#146f8c">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_people.png"></mj-image>
+          <mj-text color="#fff" align="center" padding="5" font-size="18px">4,134</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="11px">Members</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/icon-set_world-white.png"></mj-image>
+          <mj-text color="#fff" align="center" padding="5" font-size="18px">31</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="11px">Countries</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://ssdp.org/wp-content/uploads/2018/07/grad-cap-white-01.png"></mj-image>
+          <mj-text color="#fff" align="center" padding="5" font-size="18px">273</mj-text>
+          <mj-text color="#fff" align="center" padding="5" font-size="11px">Campuses</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section background-color="#17BEBB">
+      <mj-text color="#fff" align="center"><strong>Ready to take action? Become an SSDPer today!</strong></mj-text>
+      <mj-spacer height="20px" />
+      <mj-button background-color="#c5ff00" color="#266a8c" href="https://ssdp.nationbuilder.com/become_an_ssdper"><strong>BECOME AN SSDPER</strong></mj-button>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-bottom="0px">
+      <mj-column>
+        <mj-text color="#136F8D" font-size="20px" font-family="Open Sans, Arial">CAT LEADERBOARD</mj-text>
+        <mj-text color="#636467" font-size="12px" font-family="Open Sans, Arial"><a href="https://cat.ssdp.org">Click here to view the Chapter Activity Tracker</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
+      <mj-column width="70%">
+        <mj-text color="#636467">
+          <ol>
+            <li>Ferris State University</li>
+            <li>University of Pittsburgh</li>
+            <li>Dublin City University</li>
+            <li>University of Texas Austin</li>
+            <li>University of California Santa Cruz</li>
+            <li>SUNY Binghamton</li>
+            <li>University of Vienna</li>
+            <li>DePaul University</li>
+            <li>United Methodist University</li>
+            <li>EPSD Mexico</li>
+          </ol>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image src="https://ssdp.org/wp-content/uploads/2018/04/CAT.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" padding-top="0px">
+      <mj-column>
+        <mj-text color="#136F8D" font-family="Open Sans, Arial" font-size="20px">
+          MAKING SENSE
+        </mj-text>
+        <mj-text font-family="Open Sans, Arial" line-height="1.5" color="#636467">
+          <p><strong>Czech Republic</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">Simon Kozak ‘18 of SSDP Czech Republic organized a panel discussion at his school to talk about cannabis legalization. The speakers were the head commander of the national anti-drug headquarters, a psychologist, an addiction specialist, and a professor who advocates for full legalization. The panel featured discussion on student activism and Simon introduced SSDP to the 80 attendees.</span></li>
+          </ul>
+          <p><strong>Israel</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+SSDP Israel met with members of the Israeli Knesset as part of a stakeholders meeting regarding harm reduction at music festivals. Knesset member Tamar Zandberg initiated the meeting after two high profile deaths at a music festival over the summer. At the meeting they discussed drug testing at festivals, funding and institutionalizing safe spaces, investing in the education of safe use, cooperation between safe spaces and medics, and why police intervention is more harmful than helpful. 
+ </span></li>
+          </ul>
+          <p><strong>Mexico</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+EPSD Mexico members attended a forum on Sacred Plants at the National Anthropology University where they shared information about the work of EPSD and discussed amending medical marijuana legislation so it is more accessible to low income patients. </span></li>
+          </ul>
+          <p><strong>Nigeria</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Moronfolu Adeniyi '14 visited the Ministry of Health in Ogun State and met with the Director of Pharmaceutical Services to advocate for collaboration between the government and SSDP in Ogun State promoting health programs for people who use drugs and access to pain medication.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">SSDP Nigeria hosted a Twitter chat regarding of public health and drug policy, with a focus on discussing health impacts from policy on people who use drugs. They received over 30,000 impressions from the chat.
+</span></li>
+          </ul>
+
+          <p><strong>United States</strong></p>
+          <ul>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Riley Tillitt ‘16 was selected as a 2019 Rhodes Scholar and will be pursuing post-graduate work at Oxford in public policy and criminal justice as a means to advance drug policy reform.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+The University of Pittsburgh SSDP chapter successfully lobbied the heads of the department for student conduct to actively promote the school’s medical amnesty policy.
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Eight Officers from the James Madison University SSDP chapter were certified by Virginia REVIVE, a part of the Virginia Department of Behavioral Health and Developmental Services, as trainers for the Naloxone Administration program.
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Chicago’s DePaul University chapter successfully changed campus policy through ending the school’s ban on naloxone. Student leaders are continuing to work with administrators to ensure DePaul’s new naloxone policy is implemented in a holistic way that provides harm reduction approaches to student substance use.
+</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+University of California Santa Barbara SSDP hosted our 2018 Pacific Regional Conference, bringing together students, alumni, and community members from the region for a weekend of learning and networking. Session topics included mass incarceration and environmental justice, all-drug decriminalization, lobbying training, the future of psychedelics in medicine, and empathy and harm reduction.</span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Occidental College SSDP held an event, “From the Festivals to the Streets: A Workshop to Fuse Psychedelic Harm Reduction and Community Mental Health” facilitated by SSDP Alumnus Irina Alexander ‘07 to cap off their “SSDP Week,” an educational campaign where the chapter distributes information throughout campus on drugs and harm reduction. </span></li>
+            <li style="font-weight: 400;"><span style="font-weight: 400;">
+Dominique Coronel ‘18 from DePaul University SSDP and DePaul Alumnus Amy Hildebrand (year) met with Illinois’ Attorneys General to discuss the future of marijuana policy reform in Illinois. 
+</span></li>
+     
+          </ul>
+        </mj-text>
+
+        <mj-text color="#136F8D" font-family="Open Sans, Arial" font-size="20px">
+          NEW CHAPTERS
+        </mj-text>
+        <mj-text color="#636467" font-family="Open Sans, Arial" line-height="1.5">
+          <p><strong>United States</strong></p>
+          <ul>
+            <li>Washington State University</li>
+            <li>University of Texas Arlington</li>
+            <li>University of California San Diego</li>
+            <li>Brooklyn Technical High School</li>
+            <li>Universidad de Puerto Rico, Recinto de Rio Piedras</li>
+            <li>Duke University</li>
+          </ul>
+          <p><strong>Latin America</strong></p>
+          <ul>
+            <li>EPSD Ecuador</li>
+          </ul>
+          <p><strong>Africa</strong></p>
+          <ul>
+            <li>SSDP Zimbabwe</li>
+            <li>University of Nairobi (Kenya)</li>
+          </ul>
+          <p><strong>Europe</strong></p>
+          <ul>
+            <li>Maynooth University (Ireland)</li>
+          </ul>
+        </mj-text>
+        <mj-text color="#136F8D" font-family="Open Sans, Arial" font-size="20px">
+          IN THE NEWS
+        </mj-text>
+        <mj-text color="#636467" font-family="Open Sans, Arial" line-height="1.5">
+          <ul>
+            <li><a href="https://www.bupipedream.com/news/99684/students-practice-using-naloxone-learn-to-help-overdose-victims/">Students practice using naloxone, learn to help overdose victims</a></li>
+            <li><a href="https://chacruna.net/its-time-for-the-psychedelic-renaissance-to-join-the-harm-reduction-movement/">It’s Time for the Psychedelic Renaissance to Join the Harm Reduction Movement</a></li>
+            <li><a href="http://dailytexanonline.com/2018/11/14/apd-aims-to-reduce-misdemeanor-arrests-with-cite-and-release-reform">APD aims to reduce misdemeanor arrests with cite-and-release reform</a></li>
+            <li><a href="https://www.courant.com/business/hc-news-ct-preps-for-mass-pot-20181119-story.html">Connecticut marijuana advocates bolstered by Massachusetts' first sales</a></li>
+            <li><a href="https://www.twincities.com/2018/11/19/after-losing-brother-to-heroin-rhodes-scholar-from-twin-cities-to-focus-on-drug-policy/">After losing brother to heroin, Rhodes scholar from Twin Cities to focus on drug policy</a></li>
+            <li><a href="https://www.bostonglobe.com/news/marijuana/2018/11/24/shaleen-title-let-talk-about-legalizing-and-regulating-all-drugs-not-just-marijuana/5CHfUQK2DldWMOfyhjWmEK/story.html">Shaleen Title: Let's talk about legalizing and regulating all drugs, not just marijuana</a></li>
+            <li><a href="https://www.breezejmu.org/news/student-led-club-works-to-change-drug-laws-in-virginia/article_aaa61d96-f354-11e8-aadc-93b0ab034c5f.html">Student-led club works to change drug laws in Virginia - The Breeze</a></li>
+            <li><a href="http://dailyorange.com/2018/12/student-association-trying-change-sus-drug-alcohol-policy/">Student Association trying to change SU's drug and alcohol policy - The Daily Orange</a></li>
+            <li><a href="http://dailytexanonline.com/2018/12/09/ut-students-remain-unaware-of-medical-amnesty-laws">UT students remain unaware of medical amnesty laws - UT The Daily Texan</a></li>
+            <li><a href="https://diverseeducation.com/article/131486/">Cannabis and Campuses: Colleges Caught in the Middle of Marijuana Laws</a></li>
+            <li><a href="https://www.prnewswire.com/news-releases/4front-partners-with-students-for-sensible-drug-policy-to-boost-fundraising-drive-300768354.html">4Front Partners With Students For Sensible Drug Policy To Boost Fundraising Drive - PRNewswire</a></li>
+          </ul>
+        </mj-text>
+                <mj-text color="#136F8D" font-family="Open Sans, Arial" font-size="20px">
+          SSDP Staff recommended reading/links/resources
+        </mj-text>
+        <mj-text color="#636467" font-family="Open Sans, Arial" line-height="1.5">
+          <ul>
+          <li>Vilmarie: <a href="https://tonic.vice.com/en_us/article/7x3yag/dan-bigg-overdose-harm-reduction?fbclid=IwAR2mtPskT6V3lQqRAyu8AJgYSBDaHXh4CXykIdCkVhr5nGYvJ0Fv9W7KRF4">Dan Bigg is a Harm Reduction pioneer and his overdose doesn’t change that</a></li>
+          <li>Jake: <a href="https://ssdp.org/blog/lets-talk-about-international-cannabis-policy/">Let's Talk About International Cannabis Policy</a></li>
+          <li>Lauren: <a href="https://www.psymposia.com/psychedelic-sisters-in-arms/">Psychedelic Sisters in Arms: a series of personal stories on consent, gender, and sexual violence against women in psychedelic communities</a></li>
+          <li>Luis: <a href="https://www.nten.org/article/how-to-tell-compelling-stories-while-avoiding-exploitation/">How to tell compelling stories while avoiding exploitation</a></li>
+          <li>Rachel: <a href="https://www.bostonglobe.com/news/marijuana/2018/11/24/shaleen-title-let-talk-about-legalizing-and-regulating-all-drugs-not-just-marijuana/5CHfUQK2DldWMOfyhjWmEK/story.html">Shaleen Title: Let’s talk about legalizing and regulating all drugs</a></li>
+          <li>Hannah: <a href="https://www.rollingstone.com/politics/politics-features/united-states-decriminalize-drug-possession-nadelmann-760001/">The U.S. Needs to Decriminalize Drug Possession Now</a></li>
+          <li>Elise: <a href="https://www.meandwhitesupremacybook.com/">Me and White Supremacy Workbook</a></li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<mj-section padding-top="0">
+    <mj-section background-color="#aaf343" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
+      <mj-text align="center" font-size="16px" font-family="Open Sans, Arial" color="#003249">Connect with us!</mj-text>
+      <mj-group>
+        <mj-column>
+          <mj-image href="https://www.facebook.com/ssdp/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-facebook-1-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://twitter.com/ssdp" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-twitter-1-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.instagram.com/studentsforsensibledrugpolicy/" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-instagram-11-240.png"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.youtube.com/user/SSDP" src="https://ssdp.org/wp-content/uploads/2018/07/iconmonstr-youtube-6-240.png"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#636467" border-left="3px solid #17BEBB" border-right="3px solid #17BEBB" border-bottom="3px solid #17BEBB">
+      <mj-column>
+        <mj-text align="center" font-family="Open Sans, Arial" line-height="1.5" color="#fff">
+          Students for Sensible Drug Policy<br />
+          1011 O St NW, #1, Washington, DC 20001, United States<br />
+          To stop receiving emails, click <a href="{{ settings.site.unsubscribe_url }}">here</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+  </mj-body>
+</mjml>
