@@ -8,8 +8,7 @@
     <mj-section border-left="3px solid #17BEBB" border-right="3px solid #17BEBB">
       <mj-column>
         <mj-spacer height="10px" />
-        <mj-text font-family="Open Sans, Arial" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />2018 was an incredible year for Students for Sensible Drug Policy, as you’ve seen in <a href="https://drive.google.com/file/d/1qF-ruoWENIeYxL3CQl3rFQOHa3I2qsH1/view">our annual report</a>, read about in <a href="https://ssdp.org/blog/ssdps-top-10-highlights-of-2018/">our annual top 10 list</a>, and even heard in the news. We’re grateful for our 5,000+student members who are investing time in keeping their communities safe. We’re proud of the alumni who are carrying their SSDP values into their work and lives. Thank you to all of the volunteers, advocates, donors, leaders, and mentors who understand that a strong and supported youth movement is critical to any such change.  
-          {{ body }}
+        <mj-text font-family="Open Sans, Arial" line-height="1.5" color="#636467">Dear {{ recipient.first_name_or_friend }}, <br /><br />2018 was an incredible year for Students for Sensible Drug Policy, as you’ve seen in <a href="https://drive.google.com/file/d/1qF-ruoWENIeYxL3CQl3rFQOHa3I2qsH1/view">our annual report</a>, read about in <a href="https://ssdp.org/blog/ssdps-top-10-highlights-of-2018/">our annual top 10 list</a>, and even heard in the news. We’re grateful for our 4,000+student members who are investing time in keeping their communities safe. We’re proud of the alumni who are carrying their SSDP values into their work and lives. Thank you to all of the volunteers, advocates, donors, leaders, and mentors who understand that a strong and supported youth movement is critical to ending the War on Drugs.  
           <br /><br />And finally, <b>thank you</b> for defending the values of justice, safety, and education as we steer this monumental social change movement.
           <br /><br />Please take a look at <a href="https://ssdp.org/blog/ssdp-report-card-january-2019/">this month’s report card</a> to learn more about our recent accomplishments, new activists and chapters, SSDP in the news, and recommended reading as we get 2019 off to a strong start for reform!
           <br />Stay sensible,<br /><br /> Your friends at SSDP
@@ -21,8 +20,8 @@
       <mj-group width="80%">
         <mj-column border="3px solid #FAA732">
           <mj-text color="#636467" font-family="Open Sans, Arial" font-size="12px" line-height="1.5">
-            Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2018 gifts:  {{ recipient.custom_values_for_display['2014_donation_total'] }}
-            <br />Your 2017 gifts: {{ recipient.custom_values_for_display['17_eoy_total'] }}<br />Your 2016 gifts: {{ recipient.custom_values_for_display['16_eoy_total'] }}<br /><br /></strong>{% if recipient.has_donated? %}Thank you for all of your support
+            Sensible Society members support SSDP with monthly or one-time gifts.<br /><br />These unrestricted funds ensure chapters can continue to thrive and SSDP will continue to grow sustainably.<br /><br /><strong>Your 2019 gifts:  {{ recipient.custom_values_for_display['15_eoy_total'] }}
+            <br />Your 2017 gifts: {{ recipient.custom_values_for_display['2014_donation_total'] }}<br />Your 2016 gifts: {{ recipient.custom_values_for_display['17_eoy_total'] }}<br /><br /></strong>{% if recipient.has_donated? %}Thank you for all of your support
             to build a more Sensible Society!{% else %}Will you join us in building a more Sensible Society?{% endif %}
           </mj-text>
         </mj-column>
@@ -237,6 +236,11 @@ Dominique Coronel ‘18 from DePaul University SSDP and DePaul Alumnus Amy Hilde
         </mj-text>
       </mj-column>
     </mj-section>
+    </mj-section>
+    <mj-section>
+    <mj-text>
+    {{ body }}
+    </mj-text>
     </mj-section>
   </mj-body>
 </mjml>
